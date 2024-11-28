@@ -317,3 +317,12 @@
 [19:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
 [19:57:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:oak_planks 128
 [19:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 128 [Oak Planks] to [MIEMBRO]apicapolloasd12]
+[20:03:43] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> 12
+[20:03:49] [Async Chat Thread - 4/INFO] [/]: <pxwioz> 12 que
+[20:04:00] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> 14
+[20:04:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[20:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[20:04:10] [Async Chat Thread - 4/INFO] [/]: <pxwioz> es la edad de tus victimas?
+[20:04:17] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> 16
+[20:08:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Timed out
+[20:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
