@@ -304,3 +304,16 @@
 [19:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
 [19:47:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
 [19:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:48:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:49:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[19:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:51:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[19:51:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[19:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:51:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[19:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[19:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was shot by [MIEMBRO]apicapolloasd12
+[19:54:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[19:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[19:57:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:oak_planks 128
+[19:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 128 [Oak Planks] to [MIEMBRO]apicapolloasd12]

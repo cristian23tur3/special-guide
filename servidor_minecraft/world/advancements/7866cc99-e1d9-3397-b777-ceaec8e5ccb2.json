@@ -1533,6 +1533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-28 19:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-11-21 15:37:25 +0000"
@@ -1554,6 +1560,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-11-28 19:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-11-28 19:52:02 +0000"
     },
     "done": true
   },
