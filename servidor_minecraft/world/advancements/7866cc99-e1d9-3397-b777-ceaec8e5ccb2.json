@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-28 18:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-21 16:32:38 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-21 15:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-11-28 18:41:13 +0000"
     },
     "done": true
   },
@@ -302,6 +314,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-11-21 16:35:28 +0000",
+      "sweet_berries": "2024-11-28 18:37:12 +0000",
       "cooked_beef": "2024-11-21 16:44:46 +0000",
       "beef": "2024-11-21 16:20:18 +0000",
       "porkchop": "2024-11-21 15:46:01 +0000",
@@ -405,6 +418,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-21 15:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-28 18:36:06 +0000"
     },
     "done": true
   },
