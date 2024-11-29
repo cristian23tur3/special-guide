@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-29 17:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-21 18:42:24 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-11-29 17:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-11-21 17:44:47 +0000"
@@ -604,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-11-29 17:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-21 15:19:24 +0000"
@@ -673,6 +691,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-11-21 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-11-29 17:15:36 +0000"
     },
     "done": true
   },
@@ -1000,6 +1024,7 @@
       "minecraft:hoglin": "2024-11-21 19:18:10 +0000",
       "minecraft:spider": "2024-11-21 15:37:40 +0000",
       "minecraft:creeper": "2024-11-21 16:27:42 +0000",
+      "minecraft:witch": "2024-11-29 17:17:23 +0000",
       "minecraft:piglin": "2024-11-21 19:14:26 +0000",
       "minecraft:enderman": "2024-11-22 15:14:42 +0000",
       "minecraft:zombie": "2024-11-21 15:25:30 +0000",
@@ -1836,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-11-29 17:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-11-22 13:52:55 +0000"
@@ -2053,6 +2084,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-11-29 13:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-11-29 17:15:36 +0000"
     },
     "done": true
   },
