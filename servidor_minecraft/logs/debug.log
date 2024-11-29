@@ -819,3 +819,17 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [19:41:09] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [19:41:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 34
 [19:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 34 [Torch] to [MIEMBRO]apicapolloasd12]
+[19:46:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19:46:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19:51:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19:51:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19:51:57] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> mira inv
+[19:54:30] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> mira inv
+[19:54:35] [Async Chat Thread - 5/INFO] [/]: <pxwioz> gracias
+[19:54:50] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> yo y tengo todo
+[19:54:55] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> no necesito mas
+[19:54:59] [Async Chat Thread - 5/INFO] [/]: <pxwioz> vamonos tonces
+[19:55:02] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> necesito netherite
+[19:55:07] [Async Chat Thread - 5/INFO] [/]: <pxwioz> tienes obsidiana?
+[19:55:17] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> hay un portal
+[19:55:26] [Async Chat Thread - 5/INFO] [/]: <pxwioz> ONDE
