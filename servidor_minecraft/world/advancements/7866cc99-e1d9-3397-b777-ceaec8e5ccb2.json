@@ -1643,6 +1643,7 @@
       "porkchop": "2024-11-21 15:46:01 +0000",
       "tropical_fish": "2024-11-29 20:45:11 +0000",
       "spider_eye": "2024-11-29 17:42:24 +0000",
+      "potato": "2024-11-29 23:20:04 +0000",
       "cooked_cod": "2024-11-21 16:07:14 +0000",
       "mutton": "2024-11-21 15:46:54 +0000",
       "pufferfish": "2024-11-29 20:45:21 +0000",
@@ -1943,6 +1944,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-21 15:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 23:25:01 +0000"
     },
     "done": true
   },
@@ -2465,6 +2472,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-11-29 20:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-29 23:25:01 +0000"
     },
     "done": true
   },
