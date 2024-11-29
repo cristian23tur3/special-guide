@@ -328,3 +328,29 @@
 [20:35:09] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> coje todo
 [20:35:14] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> lo necesario
 [20:35:27] [Async Chat Thread - 19/INFO] [/]: <pxwioz> espera
+[20:36:04] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> bro
+[20:36:16] [Async Chat Thread - 19/INFO] [/]: <pxwioz> t
+[20:42:43] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> ya
+[20:42:46] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> ???
+[20:42:49] [Async Chat Thread - 20/INFO] [/]: <pxwioz> cristian aputna ip de la casa
+[20:42:53] [Async Chat Thread - 20/INFO] [/]: <pxwioz> y apunta BIEN
+[20:42:59] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> estoy en casa
+[20:43:03] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> coje mis cosas
+[20:43:06] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> para ir
+[20:43:11] [Async Chat Thread - 20/INFO] [/]: <pxwioz> apunta la ip de la casa y te haces tp
+[20:43:13] [Async Chat Thread - 20/INFO] [/]: <pxwioz> a mi
+[20:43:24] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> 61 64 -141
+[20:43:28] [Async Chat Thread - 20/INFO] [/]: <pxwioz> vale tp
+[20:43:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[20:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[20:43:46] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> escudo es mio
+[20:44:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp 61 64 -141
+[20:44:25] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/859, l='ServerLevel[world]', x=61.50, y=64.00, z=-140.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 61.5,64.0,-140.5) left loaded chunk area
+[20:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 61.5, 64.0, -140.5]
+[20:44:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
+[20:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
+[20:44:38] [Async Chat Thread - 20/INFO] [/]: <pxwioz> no cabron habian ndermans
+[20:44:41] [Async Chat Thread - 20/INFO] [/]: <pxwioz> iba a farmear ojos
+[20:45:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[20:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[20:45:52] [Async Chat Thread - 21/INFO] [/]: <apicapolloasd12> tengo alto horno

@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-11-29 20:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-11-21 16:16:16 +0000"
@@ -437,9 +443,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-11-29 20:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-21 15:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
     },
     "done": true
   },
@@ -532,10 +550,17 @@
       "minecraft:skeleton": "2024-11-21 15:53:23 +0000",
       "minecraft:spider": "2024-11-21 15:35:42 +0000",
       "minecraft:creeper": "2024-11-21 15:52:51 +0000",
+      "minecraft:enderman": "2024-11-29 20:39:10 +0000",
       "minecraft:zombie": "2024-11-21 15:34:39 +0000",
       "minecraft:drowned": "2024-11-21 16:06:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
@@ -621,6 +646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-21 16:11:34 +0000"
@@ -636,6 +667,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-11-21 16:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
     },
     "done": true
   },
@@ -789,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 20:04:05 +0000"
@@ -897,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-21 15:48:07 +0000"
@@ -912,6 +961,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-11-21 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
     },
     "done": true
   },
@@ -1072,7 +1127,9 @@
       "minecraft:taiga": "2024-11-28 18:21:57 +0000",
       "minecraft:taiga_hills": "2024-11-29 17:48:37 +0000",
       "minecraft:beach": "2024-11-28 18:21:49 +0000",
+      "minecraft:dark_forest": "2024-11-29 20:37:43 +0000",
       "minecraft:river": "2024-11-21 15:41:10 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-29 20:40:46 +0000",
       "minecraft:wooded_mountains": "2024-11-21 15:32:52 +0000",
       "minecraft:wooded_hills": "2024-11-21 15:54:58 +0000",
       "minecraft:stone_shore": "2024-11-21 16:54:14 +0000",
@@ -1120,6 +1177,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-11-21 16:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
     },
     "done": true
   },
@@ -1186,6 +1249,18 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2024-11-21 16:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-11-29 20:41:52 +0000"
     },
     "done": true
   },
@@ -1303,6 +1378,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-11-21 15:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
     },
     "done": true
   },
@@ -1474,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-11-29 20:32:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2024-11-28 19:09:17 +0000"
@@ -1512,9 +1599,11 @@
       "cooked_beef": "2024-11-21 16:44:46 +0000",
       "beef": "2024-11-21 16:20:18 +0000",
       "porkchop": "2024-11-21 15:46:01 +0000",
+      "tropical_fish": "2024-11-29 20:45:11 +0000",
       "spider_eye": "2024-11-29 17:42:24 +0000",
       "cooked_cod": "2024-11-21 16:07:14 +0000",
       "mutton": "2024-11-21 15:46:54 +0000",
+      "pufferfish": "2024-11-29 20:45:21 +0000",
       "bread": "2024-11-28 18:52:36 +0000",
       "rotten_flesh": "2024-11-21 15:48:24 +0000",
       "salmon": "2024-11-28 19:00:49 +0000",
