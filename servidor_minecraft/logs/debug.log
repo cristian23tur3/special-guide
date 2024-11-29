@@ -878,3 +878,23 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [20:14:00] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> nose
 [20:14:18] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> necesitamos 5 de estos para hacer un lingote
 [20:14:19] [Async Chat Thread - 12/INFO] [/]: <pxwioz> hay 15
+[20:16:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20:16:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 burned to death
+[20:16:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[20:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[20:16:36] [Async Chat Thread - 13/INFO] [/]: <apicapolloasd12> me faltan
+[20:16:39] [Async Chat Thread - 13/INFO] [/]: <apicapolloasd12> espada
+[20:18:37] [Async Chat Thread - 14/INFO] [/]: <apicapolloasd12> que leden
+[20:20:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[20:20:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[20:21:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20:21:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20:21:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[20:21:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[20:22:49] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> ya tengo 21
+[20:22:54] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> tu?
+[20:22:56] [Async Chat Thread - 15/INFO] [/]: <pxwioz> 15
+[20:23:10] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> igualados
+[20:23:11] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> 18
+[20:23:12] [Async Chat Thread - 15/INFO] [/]: <pxwioz> oki
