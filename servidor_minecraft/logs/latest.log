@@ -128,3 +128,5 @@
 [14:32:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 68.5 64 -143.5
 [14:32:32] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/127, l='ServerLevel[world]', x=68.50, y=64.00, z=-143.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 68.5,64.0,-143.5) left loaded chunk area
 [14:32:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 68.5, 64.0, -143.5]
+[14:33:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:smooth_stone 128
+[14:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 128 [Smooth Stone] to [MIEMBRO]apicapolloasd12]
