@@ -127,3 +127,62 @@
 [17:54:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
 [17:54:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
 [17:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[17:59:12] [Async Chat Thread - 5/INFO] [/]: <pxwioz> 68 -144 64
+[17:59:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz 68 -144 64
+[17:59:38] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['pxwioz'/128, l='ServerLevel[world]', x=68.50, y=-144.00, z=64.50](TextComponent{text='pxwioz', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 68.5,-144.0,64.5) left loaded chunk area
+[17:59:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to 68.5, -144.0, 64.5]
+[17:59:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz fell out of the world
+[17:59:42] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz was kicked for floating too long!
+[17:59:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Flying is not enabled on this server
+[17:59:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[17:59:46] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[17:59:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:41910] logged in with entity id 14,655 at (68.5, -217.166, 64.5)
+[17:59:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 68 -144 64
+[17:59:53] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/351, l='ServerLevel[world]', x=68.50, y=-144.00, z=64.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 68.5,-144.0,64.5) left loaded chunk area
+[17:59:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 68.5, -144.0, 64.5]
+[17:59:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[17:59:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[17:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 fell out of the world
+[18:00:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp @s 208 ~ 368
+[18:00:07] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/351, l='ServerLevel[world]', x=208.50, y=64.00, z=368.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 208.5,64.0,368.5) left loaded chunk area
+[18:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 208.5, 64.0, 368.5]
+[18:00:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[18:00:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[18:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[18:00:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[18:00:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[18:01:19] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/11665, l='ServerLevel[world]', x=212.80, y=68.00, z=399.51] died, message: 'Nitwit was slain by Zombie'
+[18:01:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[18:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[18:01:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[18:01:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[18:01:44] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11573, l='ServerLevel[world]', x=219.06, y=70.90, z=348.84] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:01:45] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11574, l='ServerLevel[world]', x=219.40, y=70.90, z=348.34] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:01:52] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/15204, l='ServerLevel[world]', x=226.13, y=69.90, z=361.46] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:01:56] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11581, l='ServerLevel[world]', x=220.51, y=68.90, z=371.67] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:01:58] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11676, l='ServerLevel[world]', x=220.42, y=68.90, z=371.50] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:02:08] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11584, l='ServerLevel[world]', x=193.74, y=63.90, z=369.58] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:02:11] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/11576, l='ServerLevel[world]', x=193.54, y=63.90, z=369.55] died, message: 'Villager was slain by [MIEMBRO]apicapolloasd12'
+[18:02:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[18:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[18:02:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 68.5 64 -143.5
+[18:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 68.5, 64.0, -143.5]
+[18:02:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[18:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[18:02:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[18:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[18:02:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 101.5 54 -658.5
+[18:02:52] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/351, l='ServerLevel[world]', x=101.50, y=54.00, z=-658.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 101.5,54.0,-658.5) left loaded chunk area
+[18:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 101.5, 54.0, -658.5]
+[18:03:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 68.5 64 -143.5
+[18:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 68.5, 64.0, -143.5]
+[18:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz hit the ground too hard whilst trying to escape Creeper
+[18:04:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was shot by Skeleton
+[18:06:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:spruce_planks 199
+[18:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 199 [Spruce Planks] to [MIEMBRO]apicapolloasd12]
+[18:07:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:emerald 4
+[18:07:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 4 [Emerald] to [MIEMBRO]apicapolloasd12]
+[18:08:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:campfire 1
+[18:08:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Campfire] to [MIEMBRO]apicapolloasd12]
+[18:09:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:honey_bottle 1
+[18:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Honey Bottle] to [MIEMBRO]apicapolloasd12]
