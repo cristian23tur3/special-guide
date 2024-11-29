@@ -273,3 +273,38 @@
 [18:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce was slain by Enderman
 [18:29:30] [Async Chat Thread - 8/INFO] [/]: <apicapolloasd12> XDD
 [18:29:31] [Async Chat Thread - 8/INFO] [/]: <papulinnce> ...
+[18:29:45] [Async Chat Thread - 8/INFO] [/]: <apicapolloasd12> donde moriste?
+[18:29:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce apicapolloasd12
+[18:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]papulinnce to [MIEMBRO]apicapolloasd12]
+[18:29:50] [Async Chat Thread - 8/INFO] [/]: <papulinnce> en na kueva
+[18:30:01] [Async Chat Thread - 8/INFO] [/]: <apicapolloasd12> ven
+[18:30:04] [Async Chat Thread - 8/INFO] [/]: <papulinnce> mi piedra
+[18:30:13] [Async Chat Thread - 8/INFO] [/]: <apicapolloasd12> en esta?
+[18:30:21] [Async Chat Thread - 8/INFO] [/]: <papulinnce> donde
+[18:30:29] [Async Chat Thread - 8/INFO] [/]: <apicapolloasd12> la de abajo de casa?
+[18:30:32] [Async Chat Thread - 8/INFO] [/]: <papulinnce> no
+[18:30:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[18:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[18:30:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:night_vision
+[18:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Night Vision to [MIEMBRO]apicapolloasd12]
+[18:31:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[18:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[18:31:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[18:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[18:33:56] [Async Chat Thread - 9/INFO] [/]: <papulinnce> un delfin
+[18:35:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[18:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[18:35:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /kill pxwioz
+[18:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz didn't want to live in the same world as [MIEMBRO]apicapolloasd12
+[18:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Killed [MIEMBRO]pxwioz]
+[18:36:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[18:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[18:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[18:37:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather c
+[18:37:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz hit the ground too hard whilst trying to escape [MIEMBRO]apicapolloasd12
+[18:38:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /kill apicapolloasd12
+[18:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 fell out of the world
+[18:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Killed [MIEMBRO]apicapolloasd12]
+[18:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by Zombie
+[18:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[18:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
