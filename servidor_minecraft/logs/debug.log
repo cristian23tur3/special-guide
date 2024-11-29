@@ -1012,3 +1012,26 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [21:05:18] [Async Chat Thread - 26/INFO] [/]: <apicapolloasd12> voy a comer
 [21:06:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [21:06:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21:10:32] [Async Chat Thread - 27/INFO] [/]: <apicapolloasd12> volvi
+[21:11:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21:11:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21:12:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:invisibility
+[21:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Invisibility to [MIEMBRO]apicapolloasd12]
+[21:12:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:invisibility 9999
+[21:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Invisibility to [MIEMBRO]apicapolloasd12]
+[21:13:20] [Async Chat Thread - 28/INFO] [/]: <pxwioz> no cuela
+[21:13:31] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> hay cosas
+[21:14:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[21:14:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[21:14:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[21:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[21:15:04] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> casi quemas la casa
+[21:15:07] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> retrasado
+[21:15:14] [Async Chat Thread - 29/INFO] [/]: <pxwioz> PARAAA
+[21:16:04] [Async Chat Thread - 29/INFO] [/]: <pxwioz> ENGRO
+[21:16:05] [Async Chat Thread - 29/INFO] [/]: <pxwioz> PARA
+[21:16:07] [Async Chat Thread - 29/INFO] [/]: <pxwioz> STUPID NGIGER
+[21:16:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[21:16:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[21:16:23] [Async Chat Thread - 29/INFO] [/]: <pxwioz> paraaaaaaaaaaaaa
+[21:16:34] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> cometela
