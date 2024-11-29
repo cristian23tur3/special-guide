@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-11-29 17:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2024-11-29 17:07:45 +0000"
@@ -367,6 +373,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-29 17:28:57 +0000",
       "cooked_mutton": "2024-11-21 16:35:28 +0000",
       "sweet_berries": "2024-11-28 18:37:12 +0000",
       "cooked_beef": "2024-11-21 16:44:46 +0000",
@@ -569,7 +576,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2024-11-21 15:47:31 +0000"
+      "minecraft:chicken": "2024-11-21 15:47:31 +0000",
+      "minecraft:bee": "2024-11-29 17:25:21 +0000"
     },
     "done": false
   },
@@ -2028,6 +2036,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-21 15:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2024-11-29 17:32:49 +0000"
     },
     "done": true
   },
