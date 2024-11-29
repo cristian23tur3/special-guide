@@ -1224,3 +1224,39 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [21:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
 [21:56:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
 [21:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[21:59:55] [Async Chat Thread - 42/INFO] [/]: <pitogabo> oye cris y mi pico de diamante?
+[22:00:06] [Async Chat Thread - 42/INFO] [/]: <apicapolloasd12> ns
+[22:00:17] [Async Chat Thread - 42/INFO] [/]: <pitogabo> yo no lo tengo
+[22:00:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:00:39] [Async Chat Thread - 42/INFO] [/]: <pitogabo> voy a hacerme uno
+[22:00:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[22:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[22:00:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:01:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[22:01:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[22:01:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:01:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22:01:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22:02:04] [Async Chat Thread - 43/INFO] [/]: <apicapolloasd12> dormir
+[22:02:06] [Async Chat Thread - 43/INFO] [/]: <apicapolloasd12> si podeis
+[22:02:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[22:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[22:02:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[22:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[22:03:58] [Async Chat Thread - 44/INFO] [/]: <apicapolloasd12> bro deja de
+[22:04:00] [Async Chat Thread - 44/INFO] [/]: <apicapolloasd12> decorar
+[22:05:35] [Async Chat Thread - 45/INFO] [/]: <pitogabo> hay un sitio aqui raro
+[22:06:03] [Async Chat Thread - 45/INFO] [/]: <pxwioz> ya casi esta tio
+[22:06:05] [Async Chat Thread - 45/INFO] [/]: <pxwioz> solo qu ier
+[22:06:07] [Async Chat Thread - 45/INFO] [/]: <pxwioz> poner esto bien
+[22:06:08] [Async Chat Thread - 45/INFO] [/]: <apicapolloasd12> que feo
+[22:06:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[22:06:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[22:06:11] [Async Chat Thread - 45/INFO] [/]: <pxwioz> me la pela
+[22:06:22] [Async Chat Thread - 45/INFO] [/]: <apicapolloasd12> pas
+[22:06:23] [Async Chat Thread - 45/INFO] [/]: <pxwioz> mira quiero ponerlo igual q el otro
+[22:06:36] [Async Chat Thread - 45/INFO] [/]: <pxwioz> a hbueno
+[22:06:38] [Async Chat Thread - 45/INFO] [/]: <pxwioz> dame le hahc
