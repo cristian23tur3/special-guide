@@ -833,3 +833,28 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [19:55:07] [Async Chat Thread - 5/INFO] [/]: <pxwioz> tienes obsidiana?
 [19:55:17] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> hay un portal
 [19:55:26] [Async Chat Thread - 5/INFO] [/]: <pxwioz> ONDE
+[19:55:29] [Async Chat Thread - 5/INFO] [/]: <pxwioz> donde*
+[19:55:34] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> en la cueva
+[19:55:38] [Async Chat Thread - 5/INFO] [/]: <pxwioz> donde estas
+[19:56:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19:56:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19:56:29] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> vwn
+[19:56:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bread 128
+[19:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 128 [Bread] to [MIEMBRO]apicapolloasd12]
+[19:57:31] [Async Chat Thread - 6/INFO] [/]: <apicapolloasd12> ven
+[19:59:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Hidden in the Depths]
+[19:59:26] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> EZ
+[19:59:31] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> netherite
+[19:59:52] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> vienes o que
+[20:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has made the advancement [We Need to Go Deeper]
+[20:00:48] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> ayuda
+[20:01:07] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> baja
+[20:01:09] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20:01:09] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20:01:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[20:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[20:01:50] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> haz cofre
+[20:01:53] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> otro pls
+[20:02:38] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> vamos
+[20:03:18] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> VAMOS
+[20:04:16] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> LOL
