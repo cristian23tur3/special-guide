@@ -462,3 +462,50 @@
 [21:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
 [21:36:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:oak_planks 1
 [21:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Oak Planks] to [MIEMBRO]apicapolloasd12]
+[21:37:59] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[21:37:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: You logged in from another location
+[21:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
+[21:37:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:50176] logged in with entity id 27,197 at (71.868, 68, -143.641)
+[21:38:18] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pitogabo is ee57bc52-04d7-3362-ba8a-8a05ad24dedd
+[21:38:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pitogabo[/[0:0:0:0:0:0:0:1%0]:53540] logged in with entity id 27,223 at (-32.224, 83, 12.894)
+[21:38:36] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> verga y tus cosas?
+[21:38:45] [Async Chat Thread - 35/INFO] [/]: <pitogabo> nidea
+[21:38:49] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> a verga la deje en tu casa
+[21:39:01] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> porque te mato un zombie antes de salir
+[21:39:45] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player papulinnce is 2176e866-e34a-3bd1-b97c-da5ab8203b33
+[21:39:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: papulinnce[/[0:0:0:0:0:0:0:1%0]:33274] logged in with entity id 27,486 at (1,093.052, 70, 124.065)
+[21:40:03] [Async Chat Thread - 36/INFO] [/]: <apicapolloasd12> server revivido
+[21:40:15] [Async Chat Thread - 36/INFO] [/]: <pitogabo> un sec
+[21:41:26] [Async Chat Thread - 37/INFO] [/]: <pitogabo> donde coño estaba mi cabaña?
+[21:41:31] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> nose
+[21:41:35] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> pero si que esta
+[21:41:37] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> que la vi
+[21:41:42] [Async Chat Thread - 37/INFO] [/]: <pxwioz> abajo
+[21:41:44] [Async Chat Thread - 37/INFO] [/]: <pxwioz> no?
+[21:41:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pitogabo apicapolloasd12
+[21:41:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pitogabo to [MIEMBRO]apicapolloasd12]
+[21:42:06] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> mira
+[21:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce has made the advancement [Monster Hunter]
+[21:43:06] [Async Chat Thread - 38/INFO] [/]: <apicapolloasd12> ven
+[21:43:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[21:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[21:43:36] [Async Chat Thread - 38/INFO] [/]: <papulinnce> se me multiplico el inventario
+[21:43:38] [Async Chat Thread - 38/INFO] [/]: <papulinnce> noobs
+[21:44:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pitogabo apicapolloasd12
+[21:44:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pitogabo to [MIEMBRO]apicapolloasd12]
+[21:44:22] [Async Chat Thread - 38/INFO] [/]: <apicapolloasd12> ven
+[21:44:46] [Async Chat Thread - 38/INFO] [/]: <apicapolloasd12> mira inv
+[21:44:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[21:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[21:46:16] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> papulinc
+[21:46:18] [Async Chat Thread - 39/INFO] [/]: <papulinnce> k
+[21:46:22] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> dnd estas
+[21:46:25] [Async Chat Thread - 39/INFO] [/]: <papulinnce> no se.........
+[21:46:28] [Async Chat Thread - 39/INFO] [/]: <pitogabo> quien es papulince
+[21:46:33] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> te tpeo?
+[21:46:35] [Async Chat Thread - 39/INFO] [/]: <papulinnce> mario
+[21:46:38] [Async Chat Thread - 39/INFO] [/]: <papulinnce> si
+[21:46:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce apicapolloasd12
+[21:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]papulinnce to [MIEMBRO]apicapolloasd12]
+[21:46:55] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> haceros
+[21:47:04] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> hazte una casa papaulince
