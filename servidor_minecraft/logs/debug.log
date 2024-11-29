@@ -726,3 +726,78 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [19:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
 [19:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
 [19:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:25:43] [Async Chat Thread - 3/INFO] [/]: <pxwioz> callate puta ç
+[19:25:47] [Async Chat Thread - 3/INFO] [/]: <pxwioz> q eosty jguando con una mano
+[19:25:59] [Async Chat Thread - 3/INFO] [/]: <pxwioz> es que pensé en tu hermana
+[19:26:02] [Async Chat Thread - 3/INFO] [/]: <pxwioz> y no pude evitarlo
+[19:26:03] [Async Chat Thread - 3/INFO] [/]: <pxwioz> lo sienot
+[19:26:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19:26:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:26:30] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> malo
+[19:26:35] [Async Chat Thread - 3/INFO] [/]: <pxwioz> ya casi termino
+[19:26:40] [Async Chat Thread - 3/INFO] [/]: <pxwioz> ya veras cuando este con las 2
+[19:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:27:29] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> MLAOOOO
+[19:27:32] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> MALOOOOOOOOO
+[19:27:51] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> MALOOOO
+[19:27:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[19:27:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[19:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[19:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:29:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[19:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[19:30:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[19:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[19:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:31:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[19:31:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[19:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:31:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
+[19:31:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:32:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode adventure
+[19:32:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Adventure Mode]
+[19:32:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[19:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[19:32:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[19:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[19:32:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[19:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[19:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:32:59] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 moved wrongly!
+[19:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[19:33:59] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz was kicked for floating too long!
+[19:33:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Flying is not enabled on this server
+[19:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[19:34:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[19:34:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[19:34:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[19:34:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[19:35:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[19:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[19:35:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[19:35:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19:35:11] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[19:35:11] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[19:35:11] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[19:35:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:51602] logged in with entity id 5,791 at (85.003, 65, -133.296)
+[19:35:11] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@4705e3eb into net.minecraft.network.NetworkManager@22571086
+[19:35:11] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@7110b6a0 into net.minecraft.network.NetworkManager@22571086
+[19:35:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[19:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
