@@ -772,3 +772,31 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23:10:54] [Async Chat Thread - 9/INFO] [/]: <papulinnce> voi a farmear
 [23:10:56] [Async Chat Thread - 9/INFO] [/]: <papulinnce> :3
 [23:11:01] [Async Chat Thread - 9/INFO] [/]: <apicapolloasd12> ok
+[23:11:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23:11:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23:11:19] [Async Chat Thread - 9/INFO] [/]: <papulinnce> 260
+[23:11:22] [Async Chat Thread - 9/INFO] [/]: <papulinnce> 92
+[23:11:28] [Async Chat Thread - 9/INFO] [/]: <papulinnce> -15
+[23:11:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:nether_gold_ore 12
+[23:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 12 [Nether Gold Ore] to [MIEMBRO]apicapolloasd12]
+[23:11:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:netherite
+[23:12:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:netherite_ingot 15
+[23:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 15 [Netherite Ingot] to [MIEMBRO]apicapolloasd12]
+[23:12:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:netherite_ingot 15
+[23:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 15 [Netherite Ingot] to [MIEMBRO]apicapolloasd12]
+[23:12:28] [Async Chat Thread - 9/INFO] [/]: <papulinnce> zzz
+[23:12:37] [Async Chat Thread - 9/INFO] [/]: <pxwioz> per oque vas a famrear
+[23:12:40] [Async Chat Thread - 9/INFO] [/]: <papulinnce> duerman zorras
+[23:12:43] [Async Chat Thread - 9/INFO] [/]: <papulinnce> DUERME
+[23:12:43] [Async Chat Thread - 9/INFO] [/]: <pxwioz> voy
+[23:13:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[23:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[23:16:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23:16:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23:19:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[23:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[23:20:40] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> papulinnce
+[23:20:42] [Async Chat Thread - 10/INFO] [/]: <papulinnce> dime
+[23:20:49] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> necesitas ayuda
+[23:20:55] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> te ayudamos liam y yo
+[23:21:02] [Async Chat Thread - 10/INFO] [/]: <papulinnce> si
