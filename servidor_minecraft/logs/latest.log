@@ -1,651 +1,105 @@
-[18:44:54] [main/INFO] [STDOUT/]: Update in check...
-[18:44:54] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
-[18:44:55] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1243 but you have 1.16.5-1241. The latest version has been built on 2024-10-15 09:56:20. You should update to fix recent bugs !
-[18:44:55] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1241, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
-[18:44:55] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 21.0.5 by Ubuntu
-[18:44:55] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[18:44:55] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/special-guide/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[18:44:59] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[18:45:14] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[18:45:14] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[18:45:14] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
-[18:45:22] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:45:23] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-1241-universal.jar, bukkit
-[18:45:27] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 recipes
-[18:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[18:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18:45:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
-[18:45:32] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[18:45:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:45:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18:45:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:45:33] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:45:33] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1241 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
-[18:45:34] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[18:45:34] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
-[18:45:34] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[18:45:34] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
-[18:45:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18:45:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18:45:41] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[18:45:42] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
-[18:45:42] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
-[18:45:43] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[18:45:44] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7,013 ms
-[18:45:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
-[18:45:46] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[18:45:46] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 34%
-[18:45:47] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
-[18:45:49] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 40%
-[18:45:50] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
-[18:45:51] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
-[18:45:51] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
-[18:45:52] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 53%
-[18:45:53] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 63%
-[18:45:53] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 65%
-[18:45:53] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 66%
-[18:45:54] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
-[18:45:54] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
-[18:45:55] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 69%
-[18:45:55] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
-[18:45:56] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 77%
-[18:45:56] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 82%
-[18:45:57] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
-[18:45:58] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
-[18:45:58] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[18:45:58] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
-[18:45:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 15,416 ms
-[18:45:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
-[18:46:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[18:46:00] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[18:46:02] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[18:46:02] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[18:46:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3,225 ms
-[18:46:03] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[18:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.099s)! For help, type "help"
-[18:46:08] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
-[18:46:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:52692] logged in with entity id 130 at (84.387, 66.249, -133.819)
-[18:51:04] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
-[18:51:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:46552] logged in with entity id 859 at (84.645, 65, -132.297)
-[18:51:11] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 moved wrongly!
-[18:51:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was blown up by Creeper
-[18:51:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[18:51:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[18:51:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[18:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[18:57:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Timed out
-[18:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
-[18:58:04] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
-[18:58:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:55640] logged in with entity id 1,661 at (12.409, 78, -7.3)
-[18:58:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[18:58:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[18:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[18:59:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[18:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[19:00:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
-[19:00:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
-[19:00:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
-[19:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
-[19:03:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:03:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:03:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:03:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:04:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[19:04:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[19:04:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[19:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[19:04:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:05:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:06:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:06:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:09:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[19:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[19:10:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 pxwioz
-[19:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
-[19:10:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:10:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
-[19:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
-[19:10:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:10:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
-[19:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
-[19:11:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:12:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:12:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:12:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:13:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 pxwioz
-[19:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
-[19:13:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[19:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[19:13:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[19:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[19:14:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:15:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:15:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:16:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:17:50] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> 3-2
-[19:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:18:23] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> 4-3
-[19:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:19:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[19:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[19:19:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[19:19:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[19:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:20:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:21:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:22:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
-[19:22:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
-[19:22:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:23:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:25:43] [Async Chat Thread - 3/INFO] [/]: <pxwioz> callate puta ç
-[19:25:47] [Async Chat Thread - 3/INFO] [/]: <pxwioz> q eosty jguando con una mano
-[19:25:59] [Async Chat Thread - 3/INFO] [/]: <pxwioz> es que pensé en tu hermana
-[19:26:02] [Async Chat Thread - 3/INFO] [/]: <pxwioz> y no pude evitarlo
-[19:26:03] [Async Chat Thread - 3/INFO] [/]: <pxwioz> lo sienot
-[19:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:26:30] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> malo
-[19:26:35] [Async Chat Thread - 3/INFO] [/]: <pxwioz> ya casi termino
-[19:26:40] [Async Chat Thread - 3/INFO] [/]: <pxwioz> ya veras cuando este con las 2
-[19:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:27:29] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> MLAOOOO
-[19:27:32] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> MALOOOOOOOOO
-[19:27:51] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> MALOOOO
-[19:27:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[19:27:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[19:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:29:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:30:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[19:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[19:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:31:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:31:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:32:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:32:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode adventure
-[19:32:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Adventure Mode]
-[19:32:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
-[19:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
-[19:32:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:32:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:32:59] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 moved wrongly!
-[19:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[19:33:59] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz was kicked for floating too long!
-[19:33:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Flying is not enabled on this server
-[19:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
-[19:34:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[19:34:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[19:34:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[19:34:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[19:35:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
-[19:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
-[19:35:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:35:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:35:11] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
-[19:35:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:51602] logged in with entity id 5,791 at (85.003, 65, -133.296)
-[19:35:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:35:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
-[19:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
-[19:35:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 was slain by [MIEMBRO]pxwioz
-[19:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was doomed to fall by [MIEMBRO]apicapolloasd12
-[19:37:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[19:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[19:38:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[19:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[19:40:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
-[19:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
-[19:41:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 34
-[19:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 34 [Torch] to [MIEMBRO]apicapolloasd12]
-[19:51:57] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> mira inv
-[19:54:30] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> mira inv
-[19:54:35] [Async Chat Thread - 5/INFO] [/]: <pxwioz> gracias
-[19:54:50] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> yo y tengo todo
-[19:54:55] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> no necesito mas
-[19:54:59] [Async Chat Thread - 5/INFO] [/]: <pxwioz> vamonos tonces
-[19:55:02] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> necesito netherite
-[19:55:07] [Async Chat Thread - 5/INFO] [/]: <pxwioz> tienes obsidiana?
-[19:55:17] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> hay un portal
-[19:55:26] [Async Chat Thread - 5/INFO] [/]: <pxwioz> ONDE
-[19:55:29] [Async Chat Thread - 5/INFO] [/]: <pxwioz> donde*
-[19:55:34] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> en la cueva
-[19:55:38] [Async Chat Thread - 5/INFO] [/]: <pxwioz> donde estas
-[19:56:29] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> vwn
-[19:56:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bread 128
-[19:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 128 [Bread] to [MIEMBRO]apicapolloasd12]
-[19:57:31] [Async Chat Thread - 6/INFO] [/]: <apicapolloasd12> ven
-[19:59:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Hidden in the Depths]
-[19:59:26] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> EZ
-[19:59:31] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> netherite
-[19:59:52] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> vienes o que
-[20:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has made the advancement [We Need to Go Deeper]
-[20:00:48] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> ayuda
-[20:01:07] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> baja
-[20:01:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
-[20:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
-[20:01:50] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> haz cofre
-[20:01:53] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> otro pls
-[20:02:38] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> vamos
-[20:03:18] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> VAMOS
-[20:04:16] [Async Chat Thread - 7/INFO] [/]: <apicapolloasd12> LOL
-[20:06:06] [Async Chat Thread - 8/INFO] [/]: <apicapolloasd12> SIGUE POR AHI
-[20:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has made the advancement [Hidden in the Depths]
-[20:07:28] [Async Chat Thread - 9/INFO] [/]: <apicapolloasd12> SIGUE POR AHI
-[20:10:08] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> SIGUE RECTO
-[20:10:37] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> SIGUE RECTO
-[20:11:47] [Async Chat Thread - 11/INFO] [/]: <apicapolloasd12> cuantos traes?
-[20:11:54] [Async Chat Thread - 11/INFO] [/]: <pxwioz> 12+1
-[20:13:06] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> ven
-[20:13:09] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> sigue recto
-[20:13:17] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> tu
-[20:13:21] [Async Chat Thread - 12/INFO] [/]: <pxwioz> sigo erecto
-[20:13:52] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> ya tenemos suficientes?
-[20:13:56] [Async Chat Thread - 12/INFO] [/]: <pxwioz> cuantos ahcen falta
-[20:14:00] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> nose
-[20:14:18] [Async Chat Thread - 12/INFO] [/]: <apicapolloasd12> necesitamos 5 de estos para hacer un lingote
-[20:14:19] [Async Chat Thread - 12/INFO] [/]: <pxwioz> hay 15
-[20:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 burned to death
-[20:16:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
-[20:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
-[20:16:36] [Async Chat Thread - 13/INFO] [/]: <apicapolloasd12> me faltan
-[20:16:39] [Async Chat Thread - 13/INFO] [/]: <apicapolloasd12> espada
-[20:18:37] [Async Chat Thread - 14/INFO] [/]: <apicapolloasd12> que leden
-[20:20:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
-[20:20:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
-[20:21:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[20:21:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[20:22:49] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> ya tengo 21
-[20:22:54] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> tu?
-[20:22:56] [Async Chat Thread - 15/INFO] [/]: <pxwioz> 15
-[20:23:10] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> igualados
-[20:23:11] [Async Chat Thread - 15/INFO] [/]: <apicapolloasd12> 18
-[20:23:12] [Async Chat Thread - 15/INFO] [/]: <pxwioz> oki
-[20:27:09] [Async Chat Thread - 16/INFO] [/]: <apicapolloasd12> 30
-[20:27:11] [Async Chat Thread - 16/INFO] [/]: <apicapolloasd12> tu
-[20:27:14] [Async Chat Thread - 16/INFO] [/]: <pxwioz> 18
-[20:27:32] [Async Chat Thread - 16/INFO] [/]: <apicapolloasd12> igualadaos
-[20:30:21] [Async Chat Thread - 17/INFO] [/]: <apicapolloasd12> donde esta la salida
-[20:30:23] [Async Chat Thread - 17/INFO] [/]: <pxwioz> yo que se
-[20:30:24] [Async Chat Thread - 17/INFO] [/]: <apicapolloasd12> ayuda
-[20:30:26] [Async Chat Thread - 17/INFO] [/]: <pxwioz> llevo edia hora buscando
-[20:30:29] [Async Chat Thread - 17/INFO] [/]: <pxwioz> XD
-[20:30:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:obsidian 16
-[20:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 16 [Obsidian] to [MIEMBRO]apicapolloasd12]
-[20:32:36] [Async Chat Thread - 18/INFO] [/]: <apicapolloasd12> tuu
-[20:34:02] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> vamos
-[20:34:11] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> espera
-[20:34:16] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> deja el cofr
-[20:34:32] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> nono
-[20:34:36] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> toma mis coas
-[20:34:40] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> y matame
-[20:34:46] [Async Chat Thread - 19/INFO] [/]: <pxwioz> ahh
-[20:34:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /kill apicapolloasd12
-[20:34:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 fell out of the world
-[20:34:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Killed [MIEMBRO]apicapolloasd12]
-[20:35:04] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> ya estoy en casa
-[20:35:09] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> coje todo
-[20:35:14] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> lo necesario
-[20:35:27] [Async Chat Thread - 19/INFO] [/]: <pxwioz> espera
-[20:36:04] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> bro
-[20:36:16] [Async Chat Thread - 19/INFO] [/]: <pxwioz> t
-[20:42:43] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> ya
-[20:42:46] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> ???
-[20:42:49] [Async Chat Thread - 20/INFO] [/]: <pxwioz> cristian aputna ip de la casa
-[20:42:53] [Async Chat Thread - 20/INFO] [/]: <pxwioz> y apunta BIEN
-[20:42:59] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> estoy en casa
-[20:43:03] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> coje mis cosas
-[20:43:06] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> para ir
-[20:43:11] [Async Chat Thread - 20/INFO] [/]: <pxwioz> apunta la ip de la casa y te haces tp
-[20:43:13] [Async Chat Thread - 20/INFO] [/]: <pxwioz> a mi
-[20:43:24] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> 61 64 -141
-[20:43:28] [Async Chat Thread - 20/INFO] [/]: <pxwioz> vale tp
-[20:43:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
-[20:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
-[20:43:46] [Async Chat Thread - 20/INFO] [/]: <apicapolloasd12> escudo es mio
-[20:44:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp 61 64 -141
-[20:44:25] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/859, l='ServerLevel[world]', x=61.50, y=64.00, z=-140.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 61.5,64.0,-140.5) left loaded chunk area
-[20:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 61.5, 64.0, -140.5]
-[20:44:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
-[20:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
-[20:44:38] [Async Chat Thread - 20/INFO] [/]: <pxwioz> no cabron habian ndermans
-[20:44:41] [Async Chat Thread - 20/INFO] [/]: <pxwioz> iba a farmear ojos
-[20:45:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
-[20:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
-[20:45:52] [Async Chat Thread - 21/INFO] [/]: <apicapolloasd12> tengo alto horno
-[20:46:58] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> estoy cocinando la netherite
-[20:47:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
-[20:47:12] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> puajajajaja
-[20:48:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:gold_ingot 35
-[20:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 35 [Gold Ingot] to [MIEMBRO]apicapolloasd12]
-[20:49:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[20:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[20:49:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[20:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[20:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has completed the challenge [Cover Me in Debris]
-[20:50:19] [Async Chat Thread - 23/INFO] [/]: <apicapolloasd12> vamoss
-[20:50:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[20:50:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[20:50:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /xp add apicapolloasd12 10000
-[20:50:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 10000 experience points to [MIEMBRO]apicapolloasd12]
-[20:52:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /xp add apicapolloasd12 10000
-[20:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 10000 experience points to [MIEMBRO]apicapolloasd12]
-[20:52:24] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> ya voy casi full
-[20:52:43] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> si quieres te encanto algo
-[20:52:58] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> toma casco
-[20:53:27] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> necesitas oro
-[20:53:45] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> tengo
-[20:53:53] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> toma
-[20:54:23] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> que?
-[20:55:29] [Async Chat Thread - 25/INFO] [/]: <apicapolloasd12> el que
-[20:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has completed the challenge [Cover Me in Debris]
-[20:57:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:apple 14
-[20:57:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 14 [Apple] to [MIEMBRO]apicapolloasd12]
-[20:57:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bow 1
-[20:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Bow] to [MIEMBRO]apicapolloasd12]
-[20:58:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bow 1
-[20:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Bow] to [MIEMBRO]apicapolloasd12]
-[20:59:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[20:59:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[21:04:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[21:04:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[21:04:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[21:04:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[21:04:20] [Async Chat Thread - 26/INFO] [/]: <apicapolloasd12> asi?
-[21:05:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[21:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[21:05:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[21:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[21:05:18] [Async Chat Thread - 26/INFO] [/]: <apicapolloasd12> voy a comer
-[21:10:32] [Async Chat Thread - 27/INFO] [/]: <apicapolloasd12> volvi
-[21:12:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:invisibility
-[21:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Invisibility to [MIEMBRO]apicapolloasd12]
-[21:12:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:invisibility 9999
-[21:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Invisibility to [MIEMBRO]apicapolloasd12]
-[21:13:20] [Async Chat Thread - 28/INFO] [/]: <pxwioz> no cuela
-[21:13:31] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> hay cosas
-[21:14:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[21:14:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[21:14:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[21:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[21:15:04] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> casi quemas la casa
-[21:15:07] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> retrasado
-[21:15:14] [Async Chat Thread - 29/INFO] [/]: <pxwioz> PARAAA
-[21:16:04] [Async Chat Thread - 29/INFO] [/]: <pxwioz> ENGRO
-[21:16:05] [Async Chat Thread - 29/INFO] [/]: <pxwioz> PARA
-[21:16:07] [Async Chat Thread - 29/INFO] [/]: <pxwioz> STUPID NGIGER
-[21:16:23] [Async Chat Thread - 29/INFO] [/]: <pxwioz> paraaaaaaaaaaaaa
-[21:16:34] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> cometela
-[21:16:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect clear apicapolloasd12
-[21:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Removed every effect from [MIEMBRO]apicapolloasd12]
-[21:17:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 4
-[21:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 4 [Torch] to [MIEMBRO]apicapolloasd12]
-[21:18:40] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> ponlo arriba
-[21:18:51] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> o mira
-[21:19:01] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> MIRA
-[21:19:08] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> escondido
-[21:19:12] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> si son minerales
-[21:19:14] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> y eso
-[21:19:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[21:19:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[21:21:21] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> pa q quieres eso
-[21:21:25] [Async Chat Thread - 31/INFO] [/]: <pxwioz> ns
-[21:21:30] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> pero tapalo
-[21:21:35] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> como la mesa
-[21:21:48] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> vater
-[21:21:52] [Async Chat Thread - 31/INFO] [/]: <pxwioz> ufff
-[21:21:57] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> skibidi toilet
-[21:22:01] [Async Chat Thread - 31/INFO] [/]: <pxwioz> bro es que hay algo qu eno me cuadra
-[21:22:05] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> el que
-[21:22:10] [Async Chat Thread - 31/INFO] [/]: <pxwioz> necesito mas madera
-[21:22:14] [Async Chat Thread - 31/INFO] [/]: <pxwioz> blanca
-[21:22:16] [Async Chat Thread - 31/INFO] [/]: <pxwioz> o sea clara
-[21:22:23] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> tengo negra
-[21:22:31] [Async Chat Thread - 31/INFO] [/]: <pxwioz> no me sirve
-[21:22:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[21:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[21:22:33] [Async Chat Thread - 31/INFO] [/]: <pxwioz> voy a por arobles
-[21:22:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[21:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[21:22:41] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> tengo
-[21:22:47] [Async Chat Thread - 31/INFO] [/]: <pxwioz> cuanta
-[21:22:50] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> 1 stack
-[21:22:53] [Async Chat Thread - 31/INFO] [/]: <pxwioz> danme
-[21:23:07] [Async Chat Thread - 31/INFO] [/]: <pxwioz> wtf ta nataron al golem
-[21:23:24] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> mira inv
-[21:25:05] [Async Chat Thread - 32/INFO] [/]: <pxwioz> bruh
-[21:28:03] [Async Chat Thread - 33/INFO] [/]: <apicapolloasd12> volvi
-[21:28:06] [Async Chat Thread - 33/INFO] [/]: <pxwioz> pene
-[21:29:07] [Async Chat Thread - 34/INFO] [/]: <pxwioz> no hombre mejor arriba
-[21:30:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[21:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[21:36:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:oak_planks 1
-[21:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Oak Planks] to [MIEMBRO]apicapolloasd12]
-[21:37:59] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
-[21:37:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: You logged in from another location
-[21:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
-[21:37:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:50176] logged in with entity id 27,197 at (71.868, 68, -143.641)
-[21:38:18] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pitogabo is ee57bc52-04d7-3362-ba8a-8a05ad24dedd
-[21:38:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pitogabo[/[0:0:0:0:0:0:0:1%0]:53540] logged in with entity id 27,223 at (-32.224, 83, 12.894)
-[21:38:36] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> verga y tus cosas?
-[21:38:45] [Async Chat Thread - 35/INFO] [/]: <pitogabo> nidea
-[21:38:49] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> a verga la deje en tu casa
-[21:39:01] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> porque te mato un zombie antes de salir
-[21:39:45] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player papulinnce is 2176e866-e34a-3bd1-b97c-da5ab8203b33
-[21:39:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: papulinnce[/[0:0:0:0:0:0:0:1%0]:33274] logged in with entity id 27,486 at (1,093.052, 70, 124.065)
-[21:40:03] [Async Chat Thread - 36/INFO] [/]: <apicapolloasd12> server revivido
-[21:40:15] [Async Chat Thread - 36/INFO] [/]: <pitogabo> un sec
-[21:41:26] [Async Chat Thread - 37/INFO] [/]: <pitogabo> donde coño estaba mi cabaña?
-[21:41:31] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> nose
-[21:41:35] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> pero si que esta
-[21:41:37] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> que la vi
-[21:41:42] [Async Chat Thread - 37/INFO] [/]: <pxwioz> abajo
-[21:41:44] [Async Chat Thread - 37/INFO] [/]: <pxwioz> no?
-[21:41:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pitogabo apicapolloasd12
-[21:41:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pitogabo to [MIEMBRO]apicapolloasd12]
-[21:42:06] [Async Chat Thread - 37/INFO] [/]: <apicapolloasd12> mira
-[21:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce has made the advancement [Monster Hunter]
-[21:43:06] [Async Chat Thread - 38/INFO] [/]: <apicapolloasd12> ven
-[21:43:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[21:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[21:43:36] [Async Chat Thread - 38/INFO] [/]: <papulinnce> se me multiplico el inventario
-[21:43:38] [Async Chat Thread - 38/INFO] [/]: <papulinnce> noobs
-[21:44:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pitogabo apicapolloasd12
-[21:44:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pitogabo to [MIEMBRO]apicapolloasd12]
-[21:44:22] [Async Chat Thread - 38/INFO] [/]: <apicapolloasd12> ven
-[21:44:46] [Async Chat Thread - 38/INFO] [/]: <apicapolloasd12> mira inv
-[21:44:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[21:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[21:46:16] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> papulinc
-[21:46:18] [Async Chat Thread - 39/INFO] [/]: <papulinnce> k
-[21:46:22] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> dnd estas
-[21:46:25] [Async Chat Thread - 39/INFO] [/]: <papulinnce> no se.........
-[21:46:28] [Async Chat Thread - 39/INFO] [/]: <pitogabo> quien es papulince
-[21:46:33] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> te tpeo?
-[21:46:35] [Async Chat Thread - 39/INFO] [/]: <papulinnce> mario
-[21:46:38] [Async Chat Thread - 39/INFO] [/]: <papulinnce> si
-[21:46:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce apicapolloasd12
-[21:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]papulinnce to [MIEMBRO]apicapolloasd12]
-[21:46:55] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> haceros
-[21:47:04] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> hazte una casa papaulince
-[21:47:09] [Async Chat Thread - 39/INFO] [/]: <papulinnce> ok
-[21:47:12] [Async Chat Thread - 39/INFO] [/]: <pitogabo> tienen lapis?
-[21:47:14] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> cerca
-[21:47:18] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> si
-[21:47:29] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> dejame encantarte
-[21:47:34] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> tengo 26 niveles
-[21:47:48] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> hazte armadura completa diamant
-[21:47:52] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> con los diamond
-[21:48:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /xp add apicapolloasd12 100000
-[21:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 100000 experience points to [MIEMBRO]apicapolloasd12]
-[21:48:29] [Async Chat Thread - 39/INFO] [/]: <pitogabo> tengo full diamante
-[21:49:34] [Async Chat Thread - 40/INFO] [/]: <pitogabo> garcias
-[21:49:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[21:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[21:50:06] [Async Chat Thread - 40/INFO] [/]: <apicapolloasd12> verga
-[21:50:09] [Async Chat Thread - 40/INFO] [/]: <apicapolloasd12> no me deja romper
-[21:50:44] [Async Chat Thread - 40/INFO] [/]: <pitogabo> hola liam
-[21:50:47] [Async Chat Thread - 40/INFO] [/]: <pxwioz> hi
-[21:51:05] [Async Chat Thread - 40/INFO] [/]: <pxwioz> gabo
-[21:51:06] [Async Chat Thread - 40/INFO] [/]: <pxwioz> que opinas
-[21:51:08] [Async Chat Thread - 40/INFO] [/]: <pxwioz> se ve como raro
-[21:51:11] [Async Chat Thread - 40/INFO] [/]: <pitogabo> que pasa li am
-[21:51:12] [Async Chat Thread - 40/INFO] [/]: <pxwioz> la habitacion
-[21:51:18] [Async Chat Thread - 40/INFO] [/]: <pxwioz> tu sabes decorar no
-[21:51:30] [Async Chat Thread - 40/INFO] [/]: <pitogabo> que coño es el techo
-[21:51:32] [Async Chat Thread - 40/INFO] [/]: <pxwioz> barriles
-[21:51:48] [Async Chat Thread - 40/INFO] [/]: <pitogabo> matate
-[21:51:55] [Async Chat Thread - 40/INFO] [/]: <pxwioz> pero que tal esta
-[21:52:02] [Async Chat Thread - 40/INFO] [/]: <pitogabo> guay supongo
-[21:52:08] [Async Chat Thread - 40/INFO] [/]: <pitogabo> salvo los barriles
-[21:52:14] [Async Chat Thread - 40/INFO] [/]: <pxwioz> vale pero quitando lso brarriles
-[21:52:40] [Async Chat Thread - 40/INFO] [/]: <pitogabo> se ve peor sin mi texture pack
-[21:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce has made the advancement [Acquire Hardware]
-[21:55:14] [Async Chat Thread - 41/INFO] [/]: <pitogabo> hay que dormir @everyone
-[21:55:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[21:55:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day7
-[21:55:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[21:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[21:55:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[21:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[21:56:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[21:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[21:56:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[21:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[21:59:55] [Async Chat Thread - 42/INFO] [/]: <pitogabo> oye cris y mi pico de diamante?
-[22:00:06] [Async Chat Thread - 42/INFO] [/]: <apicapolloasd12> ns
-[22:00:17] [Async Chat Thread - 42/INFO] [/]: <pitogabo> yo no lo tengo
-[22:00:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[22:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[22:00:39] [Async Chat Thread - 42/INFO] [/]: <pitogabo> voy a hacerme uno
-[22:00:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[22:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[22:00:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[22:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[22:01:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
-[22:01:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
-[22:01:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
-[22:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
-[22:02:04] [Async Chat Thread - 43/INFO] [/]: <apicapolloasd12> dormir
-[22:02:06] [Async Chat Thread - 43/INFO] [/]: <apicapolloasd12> si podeis
-[22:02:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[22:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[22:02:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[22:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[22:03:58] [Async Chat Thread - 44/INFO] [/]: <apicapolloasd12> bro deja de
-[22:04:00] [Async Chat Thread - 44/INFO] [/]: <apicapolloasd12> decorar
-[22:05:35] [Async Chat Thread - 45/INFO] [/]: <pitogabo> hay un sitio aqui raro
-[22:06:03] [Async Chat Thread - 45/INFO] [/]: <pxwioz> ya casi esta tio
-[22:06:05] [Async Chat Thread - 45/INFO] [/]: <pxwioz> solo qu ier
-[22:06:07] [Async Chat Thread - 45/INFO] [/]: <pxwioz> poner esto bien
-[22:06:08] [Async Chat Thread - 45/INFO] [/]: <apicapolloasd12> que feo
-[22:06:11] [Async Chat Thread - 45/INFO] [/]: <pxwioz> me la pela
-[22:06:22] [Async Chat Thread - 45/INFO] [/]: <apicapolloasd12> pas
-[22:06:23] [Async Chat Thread - 45/INFO] [/]: <pxwioz> mira quiero ponerlo igual q el otro
-[22:06:36] [Async Chat Thread - 45/INFO] [/]: <pxwioz> a hbueno
-[22:06:38] [Async Chat Thread - 45/INFO] [/]: <pxwioz> dame le hahc
-[22:08:00] [Async Chat Thread - 46/INFO] [/]: <pxwioz> bien
-[22:08:01] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> ya
-[22:08:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[22:08:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[22:08:24] [Async Chat Thread - 46/INFO] [/]: <pitogabo> me voy
-[22:08:32] [Async Chat Thread - 46/INFO] [/]: <pxwioz> por que
-[22:08:35] [Async Chat Thread - 46/INFO] [/]: <pxwioz> acabas de venir
-[22:08:40] [Async Chat Thread - 46/INFO] [/]: <papulinnce> traidor
-[22:08:48] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> falso amigo
-[22:08:53] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> guerra
-[22:08:57] [Async Chat Thread - 46/INFO] [/]: <papulinnce> matenlo
-[22:08:58] [Async Chat Thread - 46/INFO] [/]: <pitogabo> tengo que ir a dormir
-[22:09:02] [Async Chat Thread - 46/INFO] [/]: <pxwioz> vamos alicnharlo
-[22:09:05] [Async Chat Thread - 46/INFO] [/]: <pxwioz> linchamiento
-[22:09:06] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> silencienlo
-[22:09:12] [Async Chat Thread - 46/INFO] [/]: <papulinnce> empalenlo
-[22:09:19] [Async Chat Thread - 46/INFO] [/]: <pxwioz> voy a decirle a nuestro patron
-[22:09:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pitogabo lost connection: Timed out
-[22:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pitogabo left the game
-[22:10:05] [Async Chat Thread - 46/INFO] [/]: <pxwioz> putogabo
-[22:10:36] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> llevamos 4 horas
-[22:10:39] [Async Chat Thread - 46/INFO] [/]: <pxwioz> poquit
-[22:10:44] [Async Chat Thread - 46/INFO] [/]: <papulinnce> poquito
-[22:10:46] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> y el lleva 10 minutos y se va
-[22:10:50] [Async Chat Thread - 46/INFO] [/]: <apicapolloasd12> gay
-[22:10:53] [Async Chat Thread - 46/INFO] [/]: <pxwioz> lit
-[22:11:00] [Async Chat Thread - 46/INFO] [/]: <pxwioz> quien coño se moleta en abrir minecraft
-[22:11:03] [Async Chat Thread - 46/INFO] [/]: <pxwioz> solo para eso
-[22:12:04] [Async Chat Thread - 47/INFO] [/]: <pxwioz> 🥵
-[22:12:10] [Async Chat Thread - 47/INFO] [/]: <papulinnce> q
-[22:12:20] [Async Chat Thread - 47/INFO] [/]: <pxwioz> sito
-[22:12:28] [Async Chat Thread - 47/INFO] [/]: <papulinnce> ajjajaja
-[22:13:01] [Async Chat Thread - 47/INFO] [/]: <pxwioz> se ve ocmo el culo
-[22:13:16] [Async Chat Thread - 47/INFO] [/]: <papulinnce> delicioso
-[22:13:16] [Async Chat Thread - 47/INFO] [/]: <pxwioz> no
-[22:13:22] [Async Chat Thread - 47/INFO] [/]: <pxwioz> que
-[22:13:29] [Async Chat Thread - 47/INFO] [/]: <papulinnce> que?
-[22:13:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather c
-[22:13:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
-[22:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
-[22:13:33] [Async Chat Thread - 47/INFO] [/]: <pxwioz> no se
-[22:13:35] [Async Chat Thread - 47/INFO] [/]: <apicapolloasd12> dormir
-[22:13:37] [Async Chat Thread - 47/INFO] [/]: <apicapolloasd12> monos
-[22:13:39] [Async Chat Thread - 47/INFO] [/]: <pxwioz> ya voy
-[22:13:43] [Async Chat Thread - 47/INFO] [/]: <papulinnce> no tengo cama
-[22:13:52] [Async Chat Thread - 47/INFO] [/]: <pxwioz> yo te habia hecho una :(
-[22:13:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
-[22:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
-[22:13:58] [Async Chat Thread - 47/INFO] [/]: <papulinnce> me han echao
-[22:14:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
-[22:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
-[22:14:05] [Async Chat Thread - 47/INFO] [/]: <pxwioz> de donde
-[22:14:15] [Async Chat Thread - 47/INFO] [/]: <apicapolloasd12> verga
-[22:14:20] [Async Chat Thread - 47/INFO] [/]: <apicapolloasd12> donde hiciste tu casa
-[22:14:26] [Async Chat Thread - 47/INFO] [/]: <papulinnce> esta cerca
-[22:14:29] [Async Chat Thread - 47/INFO] [/]: <papulinnce> ntp
-[22:14:37] [Async Chat Thread - 47/INFO] [/]: <papulinnce> apuntaos las malditas coordenadas
-[22:14:41] [Async Chat Thread - 47/INFO] [/]: <papulinnce> gays
-[22:14:44] [Async Chat Thread - 47/INFO] [/]: <pxwioz> si ya lo hice
-[22:14:44] [Async Chat Thread - 47/INFO] [/]: <apicapolloasd12> cerquita"
-[22:14:46] [Async Chat Thread - 47/INFO] [/]: <pxwioz> te las envie
-[22:14:50] [Async Chat Thread - 47/INFO] [/]: <apicapolloasd12> "cerca"
-[22:15:03] [Async Chat Thread - 47/INFO] [/]: <papulinnce> gracias azuliyo
+[22:30:40] [main/INFO] [STDOUT/]: Update in check...
+[22:30:40] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[22:30:40] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1243 but you have 1.16.5-1241. The latest version has been built on 2024-10-15 09:56:20. You should update to fix recent bugs !
+[22:30:40] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1241, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[22:30:40] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 21.0.5 by Ubuntu
+[22:30:40] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[22:30:40] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/special-guide/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[22:30:42] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[22:30:50] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[22:30:50] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[22:30:50] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[22:30:56] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:30:57] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-1241-universal.jar, bukkit
+[22:30:59] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 recipes
+[22:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[22:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22:31:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[22:31:03] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[22:31:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:31:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22:31:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:31:03] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:31:03] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1241 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[22:31:03] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[22:31:03] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[22:31:03] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[22:31:04] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[22:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22:31:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22:31:06] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22:31:08] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[22:31:08] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 57%
+[22:31:09] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3,951 ms
+[22:31:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[22:31:10] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22:31:10] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[22:31:14] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[22:31:15] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[22:31:15] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,449 ms
+[22:31:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[22:31:16] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22:31:16] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 45%
+[22:31:16] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[22:31:17] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[22:31:17] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2,215 ms
+[22:31:18] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[22:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.146s)! For help, type "help"
+[22:31:41] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[22:31:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:42530] logged in with entity id 129 at (73.616, 68, -142.94)
+[22:31:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[22:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[22:32:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /weather clear
+[22:32:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the weather to clear]
+[22:32:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[22:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[22:32:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode adventure
+[22:32:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Adventure Mode]
+[22:32:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:32:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:33:01] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player papulinnce is 2176e866-e34a-3bd1-b97c-da5ab8203b33
+[22:33:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: papulinnce[/[0:0:0:0:0:0:0:1%0]:49656] logged in with entity id 457 at (262.7, 92, -154.7)
+[22:33:05] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> ufff
+[22:33:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[22:33:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[22:34:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[22:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[22:35:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:36:04] [Async Chat Thread - 3/INFO] [/]: <papulinnce> rasias
+[22:36:37] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> puto mono
+[22:36:44] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> que quiers que haga por ti?
+[22:36:53] [Async Chat Thread - 3/INFO] [/]: <papulinnce> si me das carbon lo agradeceri
+[22:36:58] [Async Chat Thread - 3/INFO] [/]: <papulinnce> lo demas lo hago solo
+[22:37:00] [Async Chat Thread - 3/INFO] [/]: <papulinnce> ta cenando
+[22:37:04] [Async Chat Thread - 3/INFO] [/]: <papulinnce> el axulon
+[22:38:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[22:38:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[22:38:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:38:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:38:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[22:38:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[22:38:27] [Async Chat Thread - 4/INFO] [/]: <papulinnce> GRASISAISIADBA
+[22:38:29] [Async Chat Thread - 4/INFO] [/]: <papulinnce> AJHYTDHU+
+[22:38:35] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> vr
+[22:38:50] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> tu no tienes para hacer mas cosas de diamantes
+[22:38:53] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> ??
+[22:38:55] [Async Chat Thread - 4/INFO] [/]: <papulinnce> no
+[22:39:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 bed1
+[22:39:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:black_bed
+[22:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Black Bed] to [MIEMBRO]apicapolloasd12]
+[22:39:18] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> y lo que tde di
+[22:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce has made the advancement [Sweet Dreams]
+[22:39:29] [Async Chat Thread - 4/INFO] [/]: <papulinnce> m diste el peto solo
+[22:39:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[22:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[22:39:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[22:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[22:39:43] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> XDDD
+[22:40:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[22:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[22:40:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce has made the advancement [Diamonds!]
+[22:40:15] [Async Chat Thread - 4/INFO] [/]: <papulinnce> muas asisa
+[22:40:20] [Async Chat Thread - 4/INFO] [/]: <papulinnce> :3
