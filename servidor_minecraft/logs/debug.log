@@ -960,3 +960,33 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [20:45:52] [Async Chat Thread - 21/INFO] [/]: <apicapolloasd12> tengo alto horno
 [20:46:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [20:46:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20:46:58] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> estoy cocinando la netherite
+[20:47:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was slain by [MIEMBRO]apicapolloasd12
+[20:47:12] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> puajajajaja
+[20:48:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:gold_ingot 35
+[20:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 35 [Gold Ingot] to [MIEMBRO]apicapolloasd12]
+[20:49:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[20:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[20:49:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[20:49:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[20:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has completed the challenge [Cover Me in Debris]
+[20:50:19] [Async Chat Thread - 23/INFO] [/]: <apicapolloasd12> vamoss
+[20:50:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[20:50:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[20:50:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /xp add apicapolloasd12 10000
+[20:50:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 10000 experience points to [MIEMBRO]apicapolloasd12]
+[20:51:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20:51:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20:52:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /xp add apicapolloasd12 10000
+[20:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 10000 experience points to [MIEMBRO]apicapolloasd12]
+[20:52:24] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> ya voy casi full
+[20:52:43] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> si quieres te encanto algo
+[20:52:58] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> toma casco
+[20:53:27] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> necesitas oro
+[20:53:45] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> tengo
+[20:53:53] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> toma
+[20:54:23] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> que?
+[20:55:29] [Async Chat Thread - 25/INFO] [/]: <apicapolloasd12> el que
+[20:56:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20:56:08] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has completed the challenge [Cover Me in Debris]
