@@ -299,6 +299,7 @@
       "apple": "2024-11-29 18:28:32 +0000",
       "bread": "2024-11-29 18:31:54 +0000",
       "suspicious_stew": "2024-11-29 21:43:24 +0000",
+      "cooked_salmon": "2024-11-30 00:59:47 +0000",
       "carrot": "2024-11-29 18:34:31 +0000"
     },
     "done": false
@@ -1113,6 +1114,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-29 18:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2024-11-30 00:59:42 +0000"
     },
     "done": true
   },
