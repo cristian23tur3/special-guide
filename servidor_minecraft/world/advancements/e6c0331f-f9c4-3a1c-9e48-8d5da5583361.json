@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-30 17:51:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-22 13:52:55 +0000"
@@ -1269,6 +1275,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2024-11-21 18:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-11-30 17:51:08 +0000"
     },
     "done": true
   },

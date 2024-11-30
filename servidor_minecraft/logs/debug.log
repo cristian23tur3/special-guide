@@ -966,3 +966,35 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [17:50:26] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [17:50:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:ender_pearl 10
 [17:50:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 10 [Ender Pearl] to [MIEMBRO]apicapolloasd12]
+[17:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Local Brewery]
+[17:51:21] [Async Chat Thread - 9/INFO] [/]: <pxwioz> llevame a casa
+[17:51:28] [Async Chat Thread - 9/INFO] [/]: <apicapolloasd12> tno puedo
+[17:51:29] [Async Chat Thread - 9/INFO] [/]: <pxwioz> por
+[17:51:31] [Async Chat Thread - 9/INFO] [/]: <pxwioz> hazm tp y ya
+[17:51:32] [Async Chat Thread - 9/INFO] [/]: <apicapolloasd12> vete por el
+[17:51:34] [Async Chat Thread - 9/INFO] [/]: <pxwioz> ah
+[17:51:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has reached the goal [Sky's the Limit]
+[17:52:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[17:52:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[17:52:58] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> donde pongo el huevo
+[17:53:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has reached the goal [The Next Generation]
+[17:53:06] [Async Chat Thread - 10/INFO] [/]: <apicapolloasd12> es logro
+[17:53:08] [Async Chat Thread - 10/INFO] [/]: <pxwioz> de mmento no lo pongas
+[17:53:09] [Async Chat Thread - 10/INFO] [/]: <pxwioz> guardalo
+[17:53:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[17:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[17:53:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[17:53:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[17:55:26] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:55:26] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:55:28] [Async Chat Thread - 11/INFO] [/]: <apicapolloasd12> tienes polvora
+[17:55:39] [Async Chat Thread - 11/INFO] [/]: <pxwioz> 5
+[17:59:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[17:59:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[17:59:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bread 64
+[17:59:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 64 [Bread] to [MIEMBRO]apicapolloasd12]
+[18:00:26] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18:00:26] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18:00:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[18:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[18:00:43] [Async Chat Thread - 12/INFO] [/]: <pxwioz> que
