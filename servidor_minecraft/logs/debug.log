@@ -1132,3 +1132,18 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [00:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
 [00:21:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [00:21:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[00:22:38] [Async Chat Thread - 23/INFO] [/]: <papulinnce> bilinguiismo
+[00:22:41] [Async Chat Thread - 23/INFO] [/]: <papulinnce> dios mio
+[00:22:44] [Async Chat Thread - 23/INFO] [/]: <papulinnce> esa pronunciacion
+[00:26:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[00:26:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[00:27:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:28:04] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> afk
+[00:28:11] [Async Chat Thread - 24/INFO] [/]: <papulinnce> matenlo
+[00:28:35] [Async Chat Thread - 24/INFO] [/]: <apicapolloasd12> ?./ban-ip papulinnce
+[00:30:42] [Async Chat Thread - 25/INFO] [/]: <papulinnce> liam
+[00:30:44] [Async Chat Thread - 25/INFO] [/]: <pxwioz> q
+[00:30:46] [Async Chat Thread - 25/INFO] [/]: <papulinnce> mira ig
+[00:31:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[00:31:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

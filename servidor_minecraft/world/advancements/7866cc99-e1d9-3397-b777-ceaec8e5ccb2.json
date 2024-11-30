@@ -574,10 +574,12 @@
       "minecraft:skeleton": "2024-11-21 15:53:23 +0000",
       "minecraft:spider": "2024-11-21 15:35:42 +0000",
       "minecraft:creeper": "2024-11-21 15:52:51 +0000",
+      "minecraft:witch": "2024-11-30 00:25:25 +0000",
       "minecraft:piglin": "2024-11-29 23:56:07 +0000",
       "minecraft:enderman": "2024-11-29 20:39:10 +0000",
       "minecraft:zombie": "2024-11-21 15:34:39 +0000",
-      "minecraft:drowned": "2024-11-21 16:06:35 +0000"
+      "minecraft:drowned": "2024-11-21 16:06:35 +0000",
+      "minecraft:zombie_villager": "2024-11-30 00:21:26 +0000"
     },
     "done": false
   },
@@ -1187,6 +1189,7 @@
       "minecraft:mountains": "2024-11-21 15:29:16 +0000",
       "minecraft:taiga": "2024-11-28 18:21:57 +0000",
       "minecraft:taiga_hills": "2024-11-29 17:48:37 +0000",
+      "minecraft:desert": "2024-11-30 00:30:35 +0000",
       "minecraft:beach": "2024-11-28 18:21:49 +0000",
       "minecraft:dark_forest": "2024-11-29 20:37:43 +0000",
       "minecraft:river": "2024-11-21 15:41:10 +0000",
