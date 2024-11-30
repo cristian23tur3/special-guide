@@ -841,3 +841,43 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [17:19:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /locate endcity
 [17:19:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NickTS2k10 lost connection: Timed out
 [17:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NickTS2k10 left the game
+[17:20:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:20:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:21:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[17:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[17:21:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[17:21:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[17:22:04] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[17:22:04] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[17:22:04] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[17:22:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:58732] logged in with entity id 13,079 at (604.994, 63, 101.234)
+[17:22:05] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@4949b208 into net.minecraft.network.NetworkManager@1eaaf261
+[17:22:05] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@2ac498c5 into net.minecraft.network.NetworkManager@1eaaf261
+[17:22:07] [Async Chat Thread - 6/INFO] [/]: <pxwioz> ya voy
+[17:23:20] [Async Chat Thread - 7/INFO] [/]: <pxwioz> w
+[17:23:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[17:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[17:24:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[17:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[17:24:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[17:24:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[17:24:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[17:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[17:25:20] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:25:20] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:27:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
+[17:27:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
+[17:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Eye Spy]
+[17:27:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 15
+[17:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 15 [Torch] to [MIEMBRO]apicapolloasd12]
+[17:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has made the advancement [Eye Spy]
+[17:28:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 15
+[17:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 15 [Torch] to [MIEMBRO]apicapolloasd12]
