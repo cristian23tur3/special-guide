@@ -23,3 +23,34 @@
 [00:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 100 [Bone] to [MIEMBRO]apicapolloasd12]
 [00:11:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
 [00:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[00:13:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[00:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[00:13:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:13:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:14:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[00:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[00:14:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:campfire
+[00:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Campfire] to [MIEMBRO]apicapolloasd12]
+[00:14:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:campfire 16
+[00:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 16 [Campfire] to [MIEMBRO]apicapolloasd12]
+[00:15:18] [Async Chat Thread - 21/INFO] [/]: <papulinnce> ...
+[00:16:25] [Async Chat Thread - 22/INFO] [/]: <papulinnce> cris de donde es
+[00:16:31] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> peru
+[00:16:34] [Async Chat Thread - 22/INFO] [/]: <papulinnce> IjKOLSIUHBGJAJ
+[00:16:35] [Async Chat Thread - 22/INFO] [/]: <papulinnce> AJDNHBFS FABHKML;
+[00:16:36] [Async Chat Thread - 22/INFO] [/]: <pxwioz> si folla cabras donde crees
+[00:16:37] [Async Chat Thread - 22/INFO] [/]: <papulinnce> AUHJMKSKSA
+[00:16:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:campfire 1
+[00:16:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Campfire] to [MIEMBRO]apicapolloasd12]
+[00:16:54] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> soy de peru
+[00:16:58] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> que pasa causa
+[00:17:00] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> pe
+[00:17:04] [Async Chat Thread - 22/INFO] [/]: <apicapolloasd12> como palomas
+[00:18:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[00:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[00:18:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[00:18:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[00:18:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:19:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[00:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
