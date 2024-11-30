@@ -1184,3 +1184,39 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [00:40:44] [Async Chat Thread - 27/INFO] [/]: <papulinnce> que
 [00:41:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [00:41:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[00:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz was doomed to fall by [MIEMBRO]apicapolloasd12 using [La Mamalona 3000]
+[00:43:36] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> por retrasado
+[00:43:39] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> las quemo
+[00:43:44] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> ah vale
+[00:43:49] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> como se pide
+[00:43:55] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> y que se pide
+[00:43:58] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> lo siento
+[00:44:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
+[00:44:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
+[00:44:27] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> el agua esta rara
+[00:44:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:arrow 128
+[00:44:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 128 [Arrow] to [MIEMBRO]apicapolloasd12]
+[00:44:53] [Async Chat Thread - 28/INFO] [/]: <papulinnce> still water
+[00:45:05] [Async Chat Thread - 28/INFO] [/]: <apicapolloasd12> those who know
+[00:46:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[00:46:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[00:46:19] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz moved too quickly! -5.919,-6.755,-4.532
+[00:47:05] [Async Chat Thread - 29/INFO] [/]: <apicapolloasd12> tengo sueño
+[00:48:19] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> a trabajar
+[00:48:21] [Async Chat Thread - 30/INFO] [/]: <apicapolloasd12> esclavo
+[00:49:27] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> mario marico
+[00:49:30] [Async Chat Thread - 31/INFO] [/]: <apicapolloasd12> mario marico
+[00:49:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[00:49:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[00:49:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:49:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[00:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[00:49:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:51:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[00:51:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[00:52:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: Timed out
+[00:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
+[00:52:14] [Async Chat Thread - 32/INFO] [/]: <papulinnce> empalado
+[00:52:25] [Async Chat Thread - 32/INFO] [/]: <pxwioz> asi le voy a dejar
