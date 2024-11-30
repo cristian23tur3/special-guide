@@ -881,3 +881,32 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [17:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has made the advancement [Eye Spy]
 [17:28:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 15
 [17:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 15 [Torch] to [MIEMBRO]apicapolloasd12]
+[17:30:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:30:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:30:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
+[17:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
+[17:30:48] [Async Chat Thread - 8/INFO] [/]: <pxwioz> que ahces
+[17:30:58] [Async Chat Thread - 8/INFO] [/]: <pxwioz> tengo que ir acasa primero
+[17:31:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 68.5 64 -143.5
+[17:31:26] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/93, l='ServerLevel[world]', x=68.50, y=64.00, z=-143.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 68.5,64.0,-143.5) left loaded chunk area
+[17:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 68.5, 64.0, -143.5]
+[17:31:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
+[17:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
+[17:31:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 -733.5 42 -1999.5
+[17:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to -733.5, 42.0, -1999.5]
+[17:34:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:water_bucket 1
+[17:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Water Bucket] to [MIEMBRO]apicapolloasd12]
+[17:34:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [The End?]
+[17:34:45] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[17:34:45] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
+[17:35:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:35:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:38:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[17:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[17:39:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[17:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[17:39:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz apicapolloasd12
+[17:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]pxwioz has made the advancement [The End?]
+[17:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]pxwioz to [MIEMBRO]apicapolloasd12]
+[17:40:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:40:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
