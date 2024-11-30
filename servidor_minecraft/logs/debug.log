@@ -1552,3 +1552,88 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [01:33:20] [Async Chat Thread - 36/INFO] [/]: <pxwioz> voy a vuscar
 [01:33:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz scate el compartir pantalla
 [01:33:28] [Async Chat Thread - 36/INFO] [/]: <pxwioz> ah
+[01:34:54] [Async Chat Thread - 37/INFO] [/]: <pxwioz> cuanta
+[01:35:00] [Async Chat Thread - 37/INFO] [/]: <papulinnce> 3 stacks
+[01:35:03] [Async Chat Thread - 37/INFO] [/]: <pxwioz> a
+[01:35:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz lo hizo a proposito para 3 stacks de hogueras
+[01:36:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz XD
+[01:36:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz issued server command: /tell apicapolloasd12 para que quiere hoguera si puede conseguir cabron vegetal con madera normal
+[01:36:16] [Async Chat Thread - 38/INFO] [/]: <papulinnce> ay
+[01:36:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz lo necesita para su casa
+[01:36:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01:36:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01:36:19] [Async Chat Thread - 38/INFO] [/]: <papulinnce> lapislazuli
+[01:36:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz issued server command: /tell apicapolloasd12 bruh
+[01:36:38] [Async Chat Thread - 38/INFO] [/]: <papulinnce> de k se rie
+[01:36:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz te vengas o que
+[01:36:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz issued server command: /tell apicapolloasd12 es que luego se enfada
+[01:37:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz daigual
+[01:37:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz ella te mato
+[01:37:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz antes
+[01:37:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz issued server command: /tell apicapolloasd12 inculso dejando de se rsu novio no me salvo de estas cosas
+[01:37:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz issued server command: /tell apicapolloasd12 y como me vengo
+[01:37:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz nose
+[01:37:41] [Async Chat Thread - 39/INFO] [/]: <papulinnce> ehm
+[01:37:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz empujala y haz que se muera
+[01:37:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg pxwioz como lo que te hizo en una montaña
+[01:37:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz issued server command: /tell apicapolloasd12 oki
+[01:38:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[01:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[01:38:09] [Async Chat Thread - 39/INFO] [/]: <pxwioz> perond
+[01:38:18] [Async Chat Thread - 39/INFO] [/]: <papulinnce> ...
+[01:38:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[01:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[01:38:49] [Async Chat Thread - 39/INFO] [/]: <pxwioz> ya casi
+[01:38:50] [Async Chat Thread - 39/INFO] [/]: <pxwioz> tengo
+[01:38:53] [Async Chat Thread - 39/INFO] [/]: <pxwioz> un cuarto de stack
+[01:39:06] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> yo ahora si que me voy a dormir
+[01:39:08] [Async Chat Thread - 39/INFO] [/]: <apicapolloasd12> pereza
+[01:39:14] [Async Chat Thread - 39/INFO] [/]: <papulinnce> buen chico
+[01:39:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /kick papulinnce a la proxima te baneo
+[01:39:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: papulinnce lost connection: a la proxima te baneo
+[01:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papulinnce left the game
+[01:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Kicked [MIEMBRO]papulinnce: a la proxima te baneo]
+[01:39:34] [Async Chat Thread - 39/INFO] [/]: <pxwioz> ?
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[01:39:36] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[01:39:36] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player papulinnce is 2176e866-e34a-3bd1-b97c-da5ab8203b33
+[01:39:36] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01:39:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: papulinnce[/[0:0:0:0:0:0:0:1%0]:47582] logged in with entity id 54,773 at (641.583, 23, 62.616)
+[01:39:36] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@b47ae70 into net.minecraft.network.NetworkManager@679a7934
+[01:39:36] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@56f06fe9 into net.minecraft.network.NetworkManager@679a7934
+[01:39:38] [Async Chat Thread - 39/INFO] [/]: <papulinnce> ....
+[01:39:57] [Async Chat Thread - 39/INFO] [/]: <papulinnce> me sieno intimidada
+[01:40:02] [Async Chat Thread - 39/INFO] [/]: <pxwioz> pq
+[01:40:09] [Async Chat Thread - 39/INFO] [/]: <papulinnce> ....
+[01:40:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: Timed out
+[01:40:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
+[01:40:22] [Async Chat Thread - 39/INFO] [/]: <papulinnce> me amenazo el peruano
+[01:40:26] [Async Chat Thread - 39/INFO] [/]: <pxwioz> como
+[01:40:35] [Async Chat Thread - 39/INFO] [/]: <papulinnce> ehm donde estoy
+[01:40:41] [Async Chat Thread - 39/INFO] [/]: <pxwioz> no se
+[01:41:00] [Async Chat Thread - 39/INFO] [/]: <pxwioz> ya tengo la mita de un stack
+[01:41:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01:41:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01:41:58] [Async Chat Thread - 39/INFO] [/]: <papulinnce> dejo esto a cargo de adri
+[01:42:03] [Async Chat Thread - 39/INFO] [/]: <papulinnce> no me hago responsable
+[01:42:06] [Async Chat Thread - 39/INFO] [/]: <pxwioz> el q
+[01:42:12] [Async Chat Thread - 39/INFO] [/]: <papulinnce> minecraft
+[01:42:21] [Async Chat Thread - 39/INFO] [/]: <papulinnce> me cagoç
+[01:42:24] [Async Chat Thread - 39/INFO] [/]: <pxwioz> eso e sbueno o malo
+[01:42:31] [Async Chat Thread - 39/INFO] [/]: <papulinnce> preguntae a el
+[01:42:35] [Async Chat Thread - 39/INFO] [/]: <papulinnce> a partir d ahora
+[01:42:36] [Async Chat Thread - 39/INFO] [/]: <pxwioz> ya tengo un stack
+[01:42:39] [Async Chat Thread - 39/INFO] [/]: <papulinnce> no soi tyo+
+[01:43:20] [Async Chat Thread - 39/INFO] [/]: <papulinnce> oli caracoli
+[01:43:23] [Async Chat Thread - 39/INFO] [/]: <pxwioz> hola
+[01:43:28] [Async Chat Thread - 39/INFO] [/]: <pxwioz> primo de adri
+[01:43:29] [Async Chat Thread - 39/INFO] [/]: <pxwioz> o sea no
+[01:43:31] [Async Chat Thread - 39/INFO] [/]: <pxwioz> primo de aike
+[01:43:45] [Async Chat Thread - 39/INFO] [/]: <papulinnce> tengo un hacha mu fea
