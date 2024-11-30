@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-11-30 01:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-11-21 16:11:34 +0000"
@@ -665,6 +671,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-11-29 17:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2024-11-30 01:14:57 +0000"
     },
     "done": true
   },
@@ -1449,6 +1461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-11-30 01:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-11-28 19:03:16 +0000"
@@ -1718,6 +1736,7 @@
       "salmon": "2024-11-28 19:00:49 +0000",
       "melon_slice": "2024-11-29 17:59:17 +0000",
       "cooked_chicken": "2024-11-30 00:57:55 +0000",
+      "mushroom_stew": "2024-11-30 01:13:18 +0000",
       "cod": "2024-11-29 17:42:09 +0000",
       "cooked_salmon": "2024-11-29 17:44:53 +0000",
       "carrot": "2024-11-21 16:51:44 +0000"
