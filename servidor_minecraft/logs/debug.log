@@ -750,3 +750,77 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [16:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 43 [Bread] to [MIEMBRO]apicapolloasd12]
 [16:59:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:campfire 20
 [16:59:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 20 [Campfire] to [MIEMBRO]apicapolloasd12]
+[17:00:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:00:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:03:32] [Async Chat Thread - 4/INFO] [/]: <NickTS2k10> recogo el trigo?
+[17:03:38] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> si quieres comida si
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[17:03:45] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[17:03:45] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player MrBowsy is ca0cf640-36a7-310a-a3ca-6f0f808eaece
+[17:03:45] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[17:03:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MrBowsy[/[0:0:0:0:0:0:0:1%0]:51508] logged in with entity id 4,628 at (-153.5, 64, 102.5)
+[17:03:45] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@157724d5 into net.minecraft.network.NetworkManager@476b9643
+[17:03:45] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@3178875a into net.minecraft.network.NetworkManager@476b9643
+[17:03:50] [Async Chat Thread - 4/INFO] [/]: <MrBowsy> NIGGER
+[17:03:53] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> nigggger
+[17:04:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /team join Miembro
+[17:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Added apicapolloasd12 to team [Miembro]]
+[17:04:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /team join Miembro MrBowsy
+[17:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Added MrBowsy to team [Miembro]]
+[17:04:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 MrBowsy
+[17:04:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]MrBowsy]
+[17:04:18] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> wtf
+[17:04:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[17:04:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[17:04:50] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[17:04:50] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[17:04:50] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[17:04:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:37556] logged in with entity id 5,261 at (615.3, 63, 103.683)
+[17:04:51] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@37644d0e into net.minecraft.network.NetworkManager@13f78220
+[17:04:51] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@3a5e2f94 into net.minecraft.network.NetworkManager@13f78220
+[17:04:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp NickTS2k10
+[17:04:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]NickTS2k10]
+[17:04:56] [Async Chat Thread - 4/INFO] [/]: <MrBowsy> NIGGA
+[17:04:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp MrBowsy apicapolloasd12
+[17:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]MrBowsy to [MIEMBRO]apicapolloasd12]
+[17:05:03] [Async Chat Thread - 4/INFO] [/]: <pxwioz> hombreeee mrnegro
+[17:05:05] [Async Chat Thread - 4/INFO] [/]: <MrBowsy> llevame con liam
+[17:05:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:05:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:05:30] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> son de la gente los cofres
+[17:06:06] [Async Chat Thread - 4/INFO] [/]: <MrBowsy> me aburre sin mods
+[17:06:14] [Async Chat Thread - 4/INFO] [/]: <MrBowsy> pero no significa que no me gusta
+[17:06:15] [Async Chat Thread - 4/INFO] [/]: <papulinnce> alkien tiene fod
+[17:06:20] [Async Chat Thread - 4/INFO] [/]: <pxwioz> ah que ya estabas
+[17:06:22] [Async Chat Thread - 4/INFO] [/]: <pxwioz> aike
+[17:06:25] [Async Chat Thread - 4/INFO] [/]: <papulinnce> hace rato
+[17:06:34] [Async Chat Thread - 4/INFO] [/]: <apicapolloasd12> aike si vienes a casa te doy
+[17:06:38] [Async Chat Thread - 4/INFO] [/]: <papulinnce> voy
+[17:06:49] [Async Chat Thread - 4/INFO] [/]: <papulinnce> no me llamen x mi nombre q me intimida, soy mario
+[17:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]MrBowsy has made the advancement [Acquire Hardware]
+[17:06:54] [Async Chat Thread - 4/INFO] [/]: <pxwioz> mira ig
+[17:06:57] [Async Chat Thread - 4/INFO] [/]: <papulinnce> voy
+[17:08:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MrBowsy lost connection: Timed out
+[17:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MrBowsy left the game
+[17:08:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Timed out
+[17:08:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[17:08:49] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> bruh
+[17:08:56] [Async Chat Thread - 5/INFO] [/]: <NickTS2k10> bro se van todos
+[17:09:09] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> el liam esta jugando dos sjuegos a la vez
+[17:09:24] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> y el mrbowsy le aburre
+[17:09:28] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> sin mod
