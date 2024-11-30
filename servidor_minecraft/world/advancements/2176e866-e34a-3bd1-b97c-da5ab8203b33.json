@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-30 01:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-29 18:23:44 +0000"
@@ -694,6 +700,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-11-29 22:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-30 01:07:37 +0000"
     },
     "done": true
   },
@@ -1436,6 +1448,13 @@
       "has_planks": "2024-11-29 18:23:44 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-30 01:07:37 +0000",
+      "minecraft:nether_wastes": "2024-11-30 01:07:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {

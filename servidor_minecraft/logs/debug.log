@@ -1270,3 +1270,80 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [01:02:19] [Async Chat Thread - 34/INFO] [/]: <papulinnce> elcarbon esta de sobra por pedneja
 [01:02:34] [Async Chat Thread - 34/INFO] [/]: <papulinnce> es qeu aver
 [01:02:38] [Async Chat Thread - 34/INFO] [/]: <papulinnce> necesito 132 fogatas
+[01:03:10] [Async Chat Thread - 34/INFO] [/]: <papulinnce> que tuienes
+[01:03:14] [Async Chat Thread - 34/INFO] [/]: <papulinnce> de encantamientos
+[01:03:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to [MIEMBRO]papulinnce: si lo matas los dioses te dan 132 fogatas trato?
+[01:03:32] [Async Chat Thread - 34/INFO] [/]: <papulinnce> QUE*
+[01:03:34] [Async Chat Thread - 34/INFO] [/]: <papulinnce> YUJDSHYUGAHBKJL
+[01:03:37] [Async Chat Thread - 34/INFO] [/]: <papulinnce> ok
+[01:03:46] [Async Chat Thread - 34/INFO] [/]: <papulinnce> t
+[01:03:49] [Async Chat Thread - 34/INFO] [/]: <papulinnce> si
+[01:03:54] [Async Chat Thread - 34/INFO] [/]: <papulinnce> me cago
+[01:04:06] [Async Chat Thread - 34/INFO] [/]: <papulinnce> que encantamientos tienes
+[01:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to [MIEMBRO]papulinnce:  pero solo te doy las fogatas no la armadura
+[01:04:13] [Async Chat Thread - 34/INFO] [/]: <papulinnce> ok
+[01:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to [MIEMBRO]papulinnce:  empuja
+[01:04:33] [Async Chat Thread - 34/INFO] [/]: <papulinnce> agua
+[01:04:38] [Async Chat Thread - 34/INFO] [/]: <papulinnce> q skin tienes
+[01:04:52] [Async Chat Thread - 34/INFO] [/]: <papulinnce> NO TE Vyasw
+[01:04:59] [Async Chat Thread - 34/INFO] [/]: <pxwioz> dejo las coass
+[01:05:45] [Async Chat Thread - 34/INFO] [/]: <papulinnce> no
+[01:05:48] [Async Chat Thread - 34/INFO] [/]: <papulinnce> te he seguido
+[01:05:54] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
+[01:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:'
+[01:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...apulinnce  minecraft:stick{Enchantments:[{id:”minecraft:knockback”,lvl:10}]}”<--[HERE]
+[01:06:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:'
+[01:06:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...apulinnce  minecraft:stick{Enchantments:[{id:”minecraft:knockback”,lvl:10}]}”<--[HERE]
+[01:06:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01:06:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:'
+[01:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...apulinnce  stick{Enchantments:[{id:”minecraft:knockback”,lvl:10}]}”<--[HERE]
+[01:06:27] [Async Chat Thread - 34/INFO] [/]: <papulinnce> tqm
+[01:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to [MIEMBRO]papulinnce: dile de ir al nether
+[01:06:43] [Async Chat Thread - 34/INFO] [/]: <papulinnce> y ee sonido
+[01:06:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to [MIEMBRO]papulinnce: lo tira a la lava
+[01:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player is required to run this command here
+[01:06:56] [Async Chat Thread - 34/INFO] [/]: <papulinnce> pero si
+[01:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]papulinnce has made the advancement [We Need to Go Deeper]
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[01:07:45] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[01:07:45] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[01:07:45] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01:07:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:50420] logged in with entity id 46,795 at (-790.3, 44, 439.707)
+[01:07:45] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@77728c28 into net.minecraft.network.NetworkManager@2d1a885b
+[01:07:45] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@1f266504 into net.minecraft.network.NetworkManager@2d1a885b
+[01:07:47] [Async Chat Thread - 34/INFO] [/]: <papulinnce> ben ayudame
+[01:07:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[01:07:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[01:08:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 papulinnce
+[01:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[01:08:26] [Async Chat Thread - 34/INFO] [/]: <apicapolloasd12> toma
+[01:08:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg papulinnce te lo dejo en tus manos
+[01:08:57] [Async Chat Thread - 34/INFO] [/]: <papulinnce> donde coño estoy
+[01:08:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg papulinnce tiralo con eso
+[01:09:10] [Async Chat Thread - 34/INFO] [/]: <papulinnce> wur
+[01:09:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /enchant apicapolloasd12 minecraft:knockback 2
+[01:09:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /enchant apicapolloasd12 minecraft:knockback 1
+[01:09:37] [Async Chat Thread - 34/INFO] [/]: <papulinnce> toda
+[01:09:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg papulinnce vete a la montaña
+[01:09:55] [Async Chat Thread - 34/INFO] [/]: <papulinnce> okow
+[01:09:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /msg papulinnce ahi lo tiras
+[01:11:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01:11:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01:11:28] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> vamos a la montaña
+[01:11:43] [Async Chat Thread - 35/INFO] [/]: <papulinnce> cruising
+[01:11:46] [Async Chat Thread - 35/INFO] [/]: <papulinnce> homoseual
+[01:11:50] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> XDDD
+[01:11:58] [Async Chat Thread - 35/INFO] [/]: <papulinnce> dame botas
+[01:12:12] [Async Chat Thread - 35/INFO] [/]: <papulinnce> se rompio
+[01:12:43] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> mira inv
+[01:13:07] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> VAMOS
+[01:13:09] [Async Chat Thread - 35/INFO] [/]: <apicapolloasd12> OSTIA
+[01:13:12] [Async Chat Thread - 35/INFO] [/]: <papulinnce> IOUHABSIUJA
