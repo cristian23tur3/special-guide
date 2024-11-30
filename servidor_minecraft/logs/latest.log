@@ -9,3 +9,17 @@
 [00:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
 [00:01:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
 [00:01:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:03:12] [Async Chat Thread - 20/INFO] [/]: <papulinnce> EH
+[00:03:15] [Async Chat Thread - 20/INFO] [/]: <papulinnce> MI MADER
+[00:03:18] [Async Chat Thread - 20/INFO] [/]: <papulinnce> MARICONES
+[00:04:16] [Async Chat Thread - 20/INFO] [/]: <papulinnce> 3 stacks de troncos
+[00:04:24] [Async Chat Thread - 20/INFO] [/]: <papulinnce> farro
+[00:04:34] [Async Chat Thread - 20/INFO] [/]: <papulinnce> DEJAR MIS ARBOLES
+[00:04:45] [Async Chat Thread - 20/INFO] [/]: <papulinnce> QUE SON 10 STACKS
+[00:04:47] [Async Chat Thread - 20/INFO] [/]: <papulinnce> DEJARM EJHF
+[00:06:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[00:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[00:07:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bone 100
+[00:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 100 [Bone] to [MIEMBRO]apicapolloasd12]
+[00:11:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[00:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
