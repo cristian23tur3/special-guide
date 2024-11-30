@@ -999,3 +999,83 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [23:50:44] [Async Chat Thread - 17/INFO] [/]: <papulinnce> :3
 [23:51:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [23:51:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23:51:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[23:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[23:54:32] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[23:54:32] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[23:54:32] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23:54:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: You logged in from another location
+[23:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[23:54:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:56956] logged in with entity id 21,720 at (-31.359, 54, 50.338)
+[23:54:32] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@2047639 into net.minecraft.network.NetworkManager@59fc43dd
+[23:54:32] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@41c3fa0 into net.minecraft.network.NetworkManager@59fc43dd
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[23:54:43] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[23:54:43] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[23:54:43] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23:54:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: You logged in from another location
+[23:54:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[23:54:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:42848] logged in with entity id 21,753 at (-31.359, 54, 50.338)
+[23:54:43] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@44b6ff8d into net.minecraft.network.NetworkManager@402e91cf
+[23:54:43] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@69df062d into net.minecraft.network.NetworkManager@402e91cf
+[23:54:52] [Async Chat Thread - 18/INFO] [/]: <papulinnce> bolbi
+[23:54:55] [Async Chat Thread - 18/INFO] [/]: <papulinnce> ehm
+[23:54:56] [Async Chat Thread - 18/INFO] [/]: <apicapolloasd12> XDDD
+[23:55:00] [Async Chat Thread - 18/INFO] [/]: <papulinnce> me desmariese
+[23:55:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Timed out
+[23:55:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[23:55:18] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[23:55:18] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[23:55:18] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23:55:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:35084] logged in with entity id 21,850 at (-31.359, 54, 50.345)
+[23:55:18] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@5d15251e into net.minecraft.network.NetworkManager@74ab7322
+[23:55:18] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@5f9f5572 into net.minecraft.network.NetworkManager@74ab7322
+[23:55:20] [Async Chat Thread - 18/INFO] [/]: <papulinnce> AYUDA
+[23:55:44] [Async Chat Thread - 18/INFO] [/]: <papulinnce> gracias por la ayuda
+[23:55:48] [Async Chat Thread - 18/INFO] [/]: <pxwioz> +
+[23:55:55] [Async Chat Thread - 18/INFO] [/]: <papulinnce> fekas
+[23:56:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23:56:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23:56:35] [Async Chat Thread - 18/INFO] [/]: <pxwioz> pero que necesitabas
+[23:56:45] [Async Chat Thread - 18/INFO] [/]: <papulinnce> me estaban matando
+[23:56:49] [Async Chat Thread - 18/INFO] [/]: <pxwioz> donde
+[23:56:50] [Async Chat Thread - 18/INFO] [/]: <pxwioz> quien
+[23:56:55] [Async Chat Thread - 18/INFO] [/]: <papulinnce> arañas
+[23:59:34] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> DORMIR
+[23:59:49] [Async Chat Thread - 19/INFO] [/]: <papulinnce> zz
+[00:00:24] [Async Chat Thread - 19/INFO] [/]: <papulinnce> dormir
+[00:00:28] [Async Chat Thread - 19/INFO] [/]: <papulinnce> madlita sea
+[00:00:28] [Async Chat Thread - 19/INFO] [/]: <apicapolloasd12> ya
+[00:01:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[00:01:18] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[00:01:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[00:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[00:01:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:01:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[00:01:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode spectator
+[00:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Spectator Mode]
+[00:01:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[00:01:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
