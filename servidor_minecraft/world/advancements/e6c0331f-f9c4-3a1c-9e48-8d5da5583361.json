@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-11-30 16:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-21 15:14:29 +0000"
@@ -565,13 +571,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-11-30 16:12:31 +0000",
       "minecraft:skeleton": "2024-11-21 15:26:24 +0000",
+      "minecraft:ghast": "2024-11-30 16:52:12 +0000",
       "minecraft:hoglin": "2024-11-21 19:18:10 +0000",
+      "minecraft:magma_cube": "2024-11-30 16:51:17 +0000",
       "minecraft:spider": "2024-11-21 15:37:40 +0000",
       "minecraft:creeper": "2024-11-21 16:27:42 +0000",
       "minecraft:phantom": "2024-11-29 21:42:38 +0000",
       "minecraft:zombified_piglin": "2024-11-29 23:55:26 +0000",
       "minecraft:witch": "2024-11-29 17:17:23 +0000",
+      "minecraft:wither_skeleton": "2024-11-30 16:13:16 +0000",
       "minecraft:piglin": "2024-11-21 19:14:26 +0000",
       "minecraft:enderman": "2024-11-22 15:14:42 +0000",
       "minecraft:zombie": "2024-11-21 15:25:30 +0000",
@@ -781,6 +791,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-11-21 15:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-30 16:12:32 +0000"
     },
     "done": true
   },
@@ -2261,6 +2277,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-11-30 16:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-11-29 20:48:28 +0000"
@@ -2495,6 +2517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-30 16:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-21 16:32:30 +0000"
@@ -2528,6 +2556,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-11-22 14:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-30 16:12:32 +0000"
     },
     "done": true
   },

@@ -1,60 +1,118 @@
-[16:03:00] [main/INFO] [STDOUT/]: Update in check...
-[16:03:00] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
-[16:03:00] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1243 but you have 1.16.5-1241. The latest version has been built on 2024-10-15 09:56:20. You should update to fix recent bugs !
-[16:03:00] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1241, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
-[16:03:00] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 21.0.5 by Ubuntu
-[16:03:00] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[16:03:00] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/special-guide/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[16:03:03] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[16:03:18] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[16:03:18] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[16:03:19] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
-[16:03:25] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:03:27] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-1241-universal.jar, bukkit
-[16:03:30] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 recipes
-[16:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[16:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16:03:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
-[16:03:34] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[16:03:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:03:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16:03:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:03:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:03:35] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1241 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
-[16:03:36] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[16:03:36] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
-[16:03:36] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[16:03:37] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
-[16:03:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16:03:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16:03:44] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:03:45] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
-[16:03:45] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
-[16:03:46] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[16:03:46] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7,363 ms
-[16:03:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
-[16:03:48] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:03:49] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
-[16:03:55] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[16:03:56] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[16:03:57] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 10,229 ms
-[16:03:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
-[16:03:57] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[16:03:58] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[16:03:59] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[16:04:00] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
-[16:04:00] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[16:04:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3,725 ms
-[16:04:01] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[16:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.520s)! For help, type "help"
-[16:04:02] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
-[16:04:02] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 3 mods : minecraft, forge, journeymap
-[16:04:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:48398] logged in with entity id 121 at (582.445, 21.118, 86.89)
-[16:05:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 101.5 54 -658.5
-[16:05:07] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity ServerPlayerEntity['apicapolloasd12'/121, l='ServerLevel[world]', x=101.50, y=54.00, z=-658.50](TextComponent{text='apicapolloasd12', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 101.5,54.0,-658.5) left loaded chunk area
-[16:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 101.5, 54.0, -658.5]
-[16:07:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /locate fortress
-[16:12:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [A Terrible Fortress]
-[16:12:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Into Fire]
+[16:49:37] [main/INFO] [STDOUT/]: Update in check...
+[16:49:37] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[16:49:38] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1243 but you have 1.16.5-1241. The latest version has been built on 2024-10-15 09:56:20. You should update to fix recent bugs !
+[16:49:38] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1241, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[16:49:38] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 21.0.5 by Ubuntu
+[16:49:38] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[16:49:38] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/special-guide/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[16:49:39] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[16:49:48] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[16:49:48] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[16:49:48] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[16:49:52] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:49:53] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, mohist-1.16.5-1241-universal.jar, bukkit
+[16:49:56] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 recipes
+[16:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[16:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16:49:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[16:49:58] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[16:49:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:49:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16:49:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:49:58] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:49:59] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1241 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[16:49:59] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[16:49:59] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[16:49:59] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[16:49:59] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[16:50:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16:50:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16:50:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16:50:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[16:50:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
+[16:50:05] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3,920 ms
+[16:50:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[16:50:07] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16:50:07] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16:50:07] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[16:50:10] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[16:50:10] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[16:50:11] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,098 ms
+[16:50:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[16:50:11] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16:50:12] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[16:50:13] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[16:50:13] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 8%
+[16:50:14] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[16:50:14] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 26%
+[16:50:15] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 36%
+[16:50:15] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[16:50:16] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 54%
+[16:50:16] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
+[16:50:17] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
+[16:50:17] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16:50:18] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[16:50:18] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,674 ms
+[16:50:18] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[16:50:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.457s)! For help, type "help"
+[16:50:44] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[16:50:44] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 3 mods : minecraft, forge, journeymap
+[16:50:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:41936] logged in with entity id 93 at (192.3, 58, -225.218)
+[16:51:10] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player NickTS2k10 is 25fe5052-8dfa-3ae4-8bb4-da3a7ccde666
+[16:51:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: NickTS2k10[/[0:0:0:0:0:0:0:1%0]:57616] logged in with entity id 221 at (61.804, 64, -139.175)
+[16:51:22] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player pxwioz is 7866cc99-e1d9-3397-b777-ceaec8e5ccb2
+[16:51:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: pxwioz[/[0:0:0:0:0:0:0:1%0]:39872] logged in with entity id 359 at (615.566, 64.875, 107.625)
+[16:52:15] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player papulinnce is 2176e866-e34a-3bd1-b97c-da5ab8203b33
+[16:52:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: papulinnce[/[0:0:0:0:0:0:0:1%0]:44916] logged in with entity id 826 at (254.5, 92, -150.5)
+[16:52:18] [Async Chat Thread - 2/INFO] [/]: <papulinnce> ola
+[16:52:22] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> ola putas
+[16:52:28] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> somos 4 en el server
+[16:52:45] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> server prime
+[16:53:08] [Async Chat Thread - 2/INFO] [/]: <NickTS2k10> el juego me va tan lag (en fps) que a veces toco cosa que no
+[16:53:10] [Async Chat Thread - 2/INFO] [/]: <NickTS2k10> xd
+[16:53:30] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> tengo 11 varas de blaze
+[16:53:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp apicapolloasd12 68.5 64 -143.5
+[16:53:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to 68.5, 64.0, -143.5]
+[16:54:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[16:54:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[16:54:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp NickTS2k10
+[16:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]NickTS2k10]
+[16:54:25] [Async Chat Thread - 2/INFO] [/]: <NickTS2k10> pta madre estoy sin defesa
+[16:54:29] [Async Chat Thread - 2/INFO] [/]: <pxwioz> donde estas
+[16:54:31] [Async Chat Thread - 2/INFO] [/]: <NickTS2k10> QUE SUSTO
+[16:54:34] [Async Chat Thread - 2/INFO] [/]: <pxwioz> mete a vc
+[16:54:35] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> PUAJAJAJA
+[16:54:37] [Async Chat Thread - 2/INFO] [/]: <pxwioz> espartano
+[16:54:40] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> verga donde estas
+[16:54:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:torch 12
+[16:54:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 12 [Torch] to [MIEMBRO]apicapolloasd12]
+[16:55:02] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> que estas buscando?
+[16:55:04] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> diamantes?
+[16:55:07] [Async Chat Thread - 2/INFO] [/]: <NickTS2k10> Hierro
+[16:55:14] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> aqui no vas a aenontrar
+[16:55:22] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: papulinnce moved too quickly! 16.547,1.753,-1.411
+[16:55:23] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> esta capa es de diamantes
+[16:55:29] [Async Chat Thread - 2/INFO] [/]: <apicapolloasd12> tienes qeu subir
+[16:56:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:night_vision 999
+[16:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Night Vision to [MIEMBRO]apicapolloasd12]
+[16:56:34] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> por esta capa
+[16:56:48] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> toma
+[16:56:50] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> ven
+[16:57:22] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> mira arriba
+[16:57:49] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> ya no necesitas
+[16:57:58] [Async Chat Thread - 3/INFO] [/]: <NickTS2k10> ya tengo suficiente
+[16:57:59] [Async Chat Thread - 3/INFO] [/]: <NickTS2k10> gracias
+[16:58:02] [Async Chat Thread - 3/INFO] [/]: <apicapolloasd12> XDDD
+[16:58:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp papulinnce
+[16:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]papulinnce]
+[16:58:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: pxwioz lost connection: Timed out
+[16:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: pxwioz left the game
+[16:58:58] [Async Chat Thread - 3/INFO] [/]: <papulinnce> COMIDA
+[16:59:00] [Async Chat Thread - 3/INFO] [/]: <papulinnce> NEECISTO
+[16:59:02] [Async Chat Thread - 3/INFO] [/]: <papulinnce> OEi
+[16:59:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:bread 43
+[16:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 43 [Bread] to [MIEMBRO]apicapolloasd12]
+[16:59:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:campfire 20
+[16:59:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 20 [Campfire] to [MIEMBRO]apicapolloasd12]
