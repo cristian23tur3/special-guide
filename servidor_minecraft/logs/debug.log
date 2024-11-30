@@ -824,3 +824,20 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [17:09:09] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> el liam esta jugando dos sjuegos a la vez
 [17:09:24] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> y el mrbowsy le aburre
 [17:09:28] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> sin mod
+[17:10:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:10:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:10:19] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> como era el ojo
+[17:10:23] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> del end?
+[17:10:38] [Async Chat Thread - 5/INFO] [/]: <NickTS2k10> un fuego de blaze y una enderpearl
+[17:10:43] [Async Chat Thread - 5/INFO] [/]: <NickTS2k10> en diagoonal
+[17:11:04] [Async Chat Thread - 5/INFO] [/]: <apicapolloasd12> quien tiene enderpearls
+[17:11:12] [Async Chat Thread - 5/INFO] [/]: <NickTS2k10> ya consigo yo
+[17:14:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:enderman_spawn_egg 13
+[17:14:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 13 [Enderman Spawn Egg] to [MIEMBRO]apicapolloasd12]
+[17:15:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17:15:19] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17:16:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: papulinnce lost connection: Timed out
+[17:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: papulinnce left the game
+[17:19:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /locate endcity
+[17:19:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: NickTS2k10 lost connection: Timed out
+[17:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NickTS2k10 left the game
