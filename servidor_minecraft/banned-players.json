@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "29f5131e-889f-462a-9972-5ce0d89b4574",
+    "name": "Nick",
+    "created": "2024-12-01 15:29:33 +0000",
+    "source": "apicapolloasd12",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
