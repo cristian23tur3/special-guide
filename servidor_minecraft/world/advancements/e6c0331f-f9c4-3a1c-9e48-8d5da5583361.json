@@ -1,13 +1,25 @@
 {
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
-      "has_planks": "2024-12-01 02:11:27 +0000"
+      "has_honey_bottle": "2024-12-01 11:54:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-01 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-01 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-01 11:54:05 +0000"
     },
     "done": true
   },
@@ -23,20 +35,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-01 02:11:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2024-12-01 02:09:28 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-01 02:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2024-12-01 11:54:12 +0000",
       "bread": "2024-12-01 02:07:45 +0000"
     },
     "done": false
@@ -47,8 +60,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-01 11:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2024-12-01 11:52:59 +0000",
+      "minecraft:mountains": "2024-12-01 11:53:02 +0000",
+      "minecraft:river": "2024-12-01 11:54:28 +0000",
+      "minecraft:wooded_hills": "2024-12-01 11:53:01 +0000",
       "minecraft:plains": "2024-12-01 02:00:25 +0000"
     },
     "done": false
@@ -65,15 +88,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-01 02:07:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-01 02:15:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_lots_of_items": "2024-12-01 02:07:45 +0000"
+      "elytra": "2024-12-01 11:52:38 +0000"
     },
     "done": true
   },
@@ -89,15 +118,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-01 02:15:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-01 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-01 02:15:19 +0000"
     },
     "done": true
   },
