@@ -1558,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-01 00:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-21 15:37:25 +0000"
@@ -1603,6 +1609,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-21 15:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-01 00:40:32 +0000"
     },
     "done": true
   },
@@ -1783,6 +1795,7 @@
       "spider_eye": "2024-11-29 17:42:24 +0000",
       "potato": "2024-11-29 23:20:04 +0000",
       "cooked_cod": "2024-11-21 16:07:14 +0000",
+      "rabbit": "2024-12-01 00:45:08 +0000",
       "mutton": "2024-11-21 15:46:54 +0000",
       "pufferfish": "2024-11-29 20:45:21 +0000",
       "bread": "2024-11-28 18:52:36 +0000",
@@ -1790,6 +1803,7 @@
       "rotten_flesh": "2024-11-21 15:48:24 +0000",
       "salmon": "2024-11-28 19:00:49 +0000",
       "melon_slice": "2024-11-29 17:59:17 +0000",
+      "cooked_rabbit": "2024-12-01 00:41:37 +0000",
       "cooked_chicken": "2024-11-30 00:57:55 +0000",
       "mushroom_stew": "2024-11-30 01:13:18 +0000",
       "cod": "2024-11-29 17:42:09 +0000",
