@@ -53,3 +53,8 @@
 [11:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
 [11:58:46] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
 [11:58:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:35000] logged in with entity id 1,404 at (65.835, 64, -150.875)
+[11:59:35] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[11:59:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: You logged in from another location
+[11:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
+[11:59:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:49218] logged in with entity id 1,502 at (63.666, 64, -151.147)
+[11:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Sweet Dreams]

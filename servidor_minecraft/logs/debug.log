@@ -663,3 +663,24 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [11:58:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:35000] logged in with entity id 1,404 at (65.835, 64, -150.875)
 [11:58:46] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@2f6f5c7b into net.minecraft.network.NetworkManager@469ad266
 [11:58:46] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@2b5fb74 into net.minecraft.network.NetworkManager@469ad266
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split_11' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[11:59:35] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new vanilla network connection.
+[11:59:35] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[11:59:35] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[11:59:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: You logged in from another location
+[11:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
+[11:59:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:49218] logged in with entity id 1,502 at (63.666, 64, -151.147)
+[11:59:35] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.VanillaConnectionNetworkFilter@7afda3c1 into net.minecraft.network.NetworkManager@6aa80608
+[11:59:35] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@18c37814 into net.minecraft.network.NetworkManager@6aa80608
+[11:59:50] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11:59:50] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 has made the advancement [Sweet Dreams]
+[12:04:50] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12:04:50] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
