@@ -195,3 +195,10 @@
 [00:51:00] [Async Chat Thread - 8/INFO] [/]: <pxwioz> 12
 [00:51:09] [Async Chat Thread - 8/INFO] [/]: <pxwioz> 13
 [00:51:44] [Async Chat Thread - 8/INFO] [/]: <pxwioz> 12x13
+[00:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [MIEMBRO]apicapolloasd12 experienced kinetic energy
+[00:53:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp pxwioz
+[00:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]pxwioz]
+[00:57:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp Licno
+[00:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [MIEMBRO]Licno]
+[00:58:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /effect give apicapolloasd12 minecraft:night_vision 9999
+[00:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Applied effect Night Vision to [MIEMBRO]apicapolloasd12]
