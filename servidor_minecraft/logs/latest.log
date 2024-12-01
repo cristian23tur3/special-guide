@@ -116,3 +116,17 @@
 [13:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 320 [Farmland] to [MIEMBRO]apicapolloasd12]
 [13:49:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:water_bucket 14
 [13:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 14 [Water Bucket] to [MIEMBRO]apicapolloasd12]
+[13:54:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:water_bucket 14
+[13:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 14 [Water Bucket] to [MIEMBRO]apicapolloasd12]
+[13:54:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[13:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
+[13:59:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:coarse_dirt 17
+[13:59:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 17 [Coarse Dirt] to [MIEMBRO]apicapolloasd12]
+[13:59:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:dirt 320
+[13:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 320 [Dirt] to [MIEMBRO]apicapolloasd12]
+[13:59:46] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:dirt 320
+[13:59:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 320 [Dirt] to [MIEMBRO]apicapolloasd12]
+[13:59:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:coarse_dirt 1
+[13:59:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 1 [Coarse Dirt] to [MIEMBRO]apicapolloasd12]
+[13:59:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /give apicapolloasd12 minecraft:coarse_dirt 17
+[13:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gave 17 [Coarse Dirt] to [MIEMBRO]apicapolloasd12]
