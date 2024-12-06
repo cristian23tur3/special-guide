@@ -982,6 +982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-06 13:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-01 02:15:19 +0000"
@@ -1516,6 +1522,7 @@
       "minecraft:dark_forest": "2024-12-06 12:11:01 +0000",
       "minecraft:river": "2024-12-01 11:54:28 +0000",
       "minecraft:lukewarm_ocean": "2024-12-06 12:14:34 +0000",
+      "minecraft:wooded_mountains": "2024-12-06 13:17:08 +0000",
       "minecraft:wooded_hills": "2024-12-01 11:53:01 +0000",
       "minecraft:savanna": "2024-12-06 12:14:51 +0000",
       "minecraft:plains": "2024-12-01 02:00:25 +0000"
@@ -1561,6 +1568,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-01 12:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-06 13:18:14 +0000"
     },
     "done": true
   },

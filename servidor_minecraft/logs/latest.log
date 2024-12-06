@@ -104,3 +104,9 @@
 [13:09:14] [Async Chat Thread - 3/INFO] [/]: <dewf> nigga
 [13:10:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: dewf lost connection: Timed out
 [13:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dewf left the game
+[13:18:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode creative
+[13:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Creative Mode]
+[13:18:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /gamemode survival
+[13:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set own game mode to Survival Mode]
+[13:20:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /time set day
+[13:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Set the time to 1000]
