@@ -83,15 +83,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 12:30:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 12:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 12:30:14 +0000"
     },
     "done": true
   },
@@ -131,15 +131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2024-12-06 12:46:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 12:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-12-06 12:46:08 +0000"
     },
     "done": true
   },
@@ -341,15 +341,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-06 12:30:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-12-06 12:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-06 12:30:14 +0000"
     },
     "done": true
   },
@@ -436,15 +436,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 12:30:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 12:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 12:30:14 +0000"
     },
     "done": true
   },
@@ -568,15 +568,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2024-12-06 12:30:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-06 12:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-06 12:30:14 +0000"
     },
     "done": true
   },
@@ -874,15 +874,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-06 12:17:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-06 12:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-06 12:17:09 +0000"
     },
     "done": true
   },
@@ -988,15 +988,15 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-06 12:17:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-06 12:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-06 12:17:09 +0000"
     },
     "done": true
   },
@@ -1114,15 +1114,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-06 12:22:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 12:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-06 12:22:12 +0000"
     },
     "done": true
   },
@@ -1414,15 +1414,15 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2024-12-06 12:27:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-06 12:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-06 12:27:25 +0000"
     },
     "done": true
   },
@@ -1432,15 +1432,15 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2024-12-06 12:26:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-06 12:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-06 12:26:24 +0000"
     },
     "done": true
   },
@@ -1511,6 +1511,7 @@
       "minecraft:taiga": "2024-12-06 12:10:05 +0000",
       "minecraft:desert_hills": "2024-12-06 12:15:13 +0000",
       "minecraft:desert": "2024-12-06 12:15:01 +0000",
+      "minecraft:birch_forest": "2024-12-06 13:10:46 +0000",
       "minecraft:beach": "2024-12-06 12:14:36 +0000",
       "minecraft:dark_forest": "2024-12-06 12:11:01 +0000",
       "minecraft:river": "2024-12-01 11:54:28 +0000",
@@ -1587,15 +1588,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-06 12:30:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-06 12:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-06 12:30:14 +0000"
     },
     "done": true
   },
@@ -1665,15 +1666,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-06 12:30:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 12:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-06 12:30:18 +0000"
     },
     "done": true
   },
@@ -1689,15 +1690,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2024-12-06 12:46:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-06 12:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-06 12:46:08 +0000"
     },
     "done": true
   },

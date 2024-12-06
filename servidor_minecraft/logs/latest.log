@@ -95,3 +95,12 @@
 [12:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Gamerule keepInventory is now set to: true]
 [12:55:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 lost connection: Timed out
 [12:55:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: apicapolloasd12 left the game
+[13:05:34] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player apicapolloasd12 is e6c0331f-f9c4-3a1c-9e48-8d5da5583361
+[13:05:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: apicapolloasd12[/[0:0:0:0:0:0:0:1%0]:48758] logged in with entity id 12,331 at (-1,287.194, 58, -97.777)
+[13:08:15] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player dewf is 497ea8b0-28b9-3dca-a37a-33f8f6b86846
+[13:08:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: dewf[/[0:0:0:0:0:0:0:1%0]:53418] logged in with entity id 12,608 at (63.602, 64, -141.587)
+[13:08:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: apicapolloasd12 issued server command: /tp dewf
+[13:08:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[MIEMBRO]apicapolloasd12: Teleported [MIEMBRO]apicapolloasd12 to [ADMIN]dewf ☠ ]
+[13:09:14] [Async Chat Thread - 3/INFO] [/]: <dewf> nigga
+[13:10:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: dewf lost connection: Timed out
+[13:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: dewf left the game
